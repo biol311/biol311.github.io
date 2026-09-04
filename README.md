@@ -1,4 +1,4 @@
-# Quarto template for university courses
+# Biology 311/312: Marine Biology and Ecology
 
 <figure>
     <img src="./figures/icons/course_favicon.png" alt="Image Created with DALL·E. Prompt: 'octopus-like alien futuristic teacher, abstract award-winning material design favicon blue flat colours'"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;">
@@ -80,12 +80,12 @@ Here is a guide of the initial files you might want to modify to remove the sect
     - If you are using VSCode, you can Ctrl + Shift + F (or ⌘ + Shift + F if you are on Mac) and replace all occurrences of `MY_COURSE_CODE` and `MY_COURSE_NAME` to the code and name of your course, respectively.
     - Or, you can manually edit those in the following files:
         - `_quarto.yml`
-        - `2023/index.qmd`
+        - `2026/index.qmd`
         - `helpers/remove-nav.html`
 
 8. Then move on to `_quarto.yml`. Scan through this file to spot what you want to change. What pages do you want to keep or remove from your website?
 
-9. Next, modify the content of `index.qmd` and start working properly on your content pages under `2023/*`
+9. Next, modify the content of `index.qmd` and start working properly on your content pages under `2026/*`
 
 10. Visualise your changes by running the Quarto website locally:
 
