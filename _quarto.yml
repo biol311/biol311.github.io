@@ -24,8 +24,8 @@ website:
     contents:
       - href: 2026/index.qmd
         text: "🏠 Home"
-      # - href: 2026/syllabus.qmd
-      #   text: "📓 Syllabus"
+      #- href: 2026/syllabus.qmd
+      #  text: "📓 Syllabus"
       # - href: 2026/communication.qmd
       #   text: "📟 Communication"
       # - href: 2026/assignments.qmd
@@ -45,7 +45,7 @@ website:
              - href: 2026/weeks/week01/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2026/weeks/week01/lab.qmd
-            #    text: 💻 Lab Roadmap
+            #    text: 🌊 Lab
             #  - href: 2026/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
 

@@ -1,5 +1,5 @@
 ---
-title: "MY_COURSE_CODE - MY_COURSE_NAME"
+title: "Biology 311/312: Marine Biology and Ecology"
 subtitle: "Academic Year: Spring 2026"
 format: html
 ---
@@ -9,7 +9,7 @@ format: html
 
 (9/09/2026)
 
-- [🗓️ Week 01 lecture material](2026/weeks/week01/page.qmd) is now available!
+- [🗓️ Week 01 lecture material]/(2026/weeks/week01/page.qmd) is now available!
 
 :::
 
@@ -17,39 +17,52 @@ format: html
 # 🧑🏻‍🏫 Our Team
 
 ::: {.panel-tabset}
-## Course Convenor
+## Course Instructor
 
 
-![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. MY NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
-**[MY_NAME](#)** <br/>
-_MY_JOB_TITLE_ <br/>
-[MY_INSTITUTION](#)</a><br/>
-📧 [MY_EMAIL](mailto:)
+![](https://www.umb.edu/media/umassboston/content-assets/profiles/jarrett-byrnes-min.jpg){fig-align="left" fig-alt="Photo of Dr. Jarrett Byrnes" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
+**[Jarrett Byrnes](http://celp-lab.org)** <br/>
+_Associate Professor_ <br/>
+[UMass Boston](http://umb.edu)</a><br/>
+📧 [jarrett.byrnes@umb.edu](mailto:jarrett.byrnes@umb.edu)
 
 Office Hours: 
 
 - When:
-- Where:
-- How to book:
+- Where: ISC 3130
+- How to book outside of standard hours: [https://calendly.com/schedule_meeting_byrnes/30min](https://calendly.com/schedule_meeting_byrnes/30min)
 
-## Teaching Staff
+## Teaching Assistant
+<!--
 
 ![](/figures/people/ta_octopunian.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
 **[TA_NAME](#)** <br/>
 PhD Candidate at PLACE <br> 
 📧 [EMAIL](mailto:)
+-->
 
-![](/figures/people/ta_octopunian2.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
-**[TA_NAME](#)** <br/>
-PhD Candidate at PLACE <br> 
-📧 [EMAIL](mailto:)
+![](/figures/people/stella.jpg){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
+**[Stella Defibaugh](https://www.linkedin.com/in/stelladefibaugh/)** <br/>
+PhD Student at UMB <br> 
+📧 [EMAIL](mailto:stella.defibaugh001@umb.edu)
 
+Office Hours: 
+
+- When:
+- Where: 
 
 :::
 
 # 📍 Lecture
 
-Fridays 2pm-4pm at PLACE
+Mondays 1pm-2:15pm at University Hall Y01-1350
+
+# 🌊 Lab
+
+Varies - See individual weeks or, by default:
+Tuesdays 1pm-4p Wheatley-Peters W03-0066 
+
+<!-- 
 
 # 💻 Class Groups
 
@@ -81,3 +94,5 @@ Fridays 2pm-4pm at PLACE
 - 📍 
 - 🧑‍🏫 _TA_NAME_
 :::
+
+-->
