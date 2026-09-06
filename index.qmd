@@ -6,11 +6,13 @@ format:
     include-after-body: helpers/remove-title.html
 ---
 
+![](figures/brittle_stars.jpg)
+
 # 📑 Course Brief
 
 **Focus:** This course explores the diversity of biological and ecological processes that shape life in the oceans. It places special emphasis on marine life in New England, focusing on the interactions between humans and the sea. This focus leads to a greater understanding of the consequences of ongoing environmental changes witnessed in the 20th and 21st centuries. 
 
-**How:** hands-on learning
+**How:** Lectures, Paper Discussion, and Fieldwork for labs!
 
 # 🎯 Learning Objectives
 
@@ -19,7 +21,7 @@ format:
 3. Gain an appreciation for how changes in the environment alter life in the sea and the concomitant indirect effects to human society.
 4. Understand the historic, current, and future links between humans in New England and the ocean around us.
 
-Additionally, for students in lab, we aim to have you:
+🌊 Additionally, for students in lab, we aim to have you:
 
 1. Learn how experimental and observational data can and cannot be used to answer biological questions.
 2. Learn how to conduct studies in coastal field environments.
