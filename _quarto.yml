@@ -53,7 +53,9 @@ website:
     background: primary
   page-footer:
     background: light
-    left: "Copyright 2026" 
+    left: "Copyright 2026<br> 
+     Website made using <a href='https://github.com/jonjoncardoso/quarto-template-for-university-courses'>Jon Cardoso-Silva's template</a><br>
+     [{{< fa brands github >}}](http://github.com/biol311/biol311.github.io)"
 
 
 
@@ -83,4 +85,5 @@ format:
 
 #margin-header: |
 # ![](/figures/logos/MY_INSTITUTION.png)
+
 
