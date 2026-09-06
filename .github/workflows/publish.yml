@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install jupyter
         run: python3 -m pip install jupyterlab pandas numpy
