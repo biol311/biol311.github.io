@@ -43,7 +43,7 @@ PhD Candidate at PLACE <br>
 
 ![](/figures/people/stella.jpg){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
 **[Stella Defibaugh](https://www.linkedin.com/in/stelladefibaugh/)** <br/>
-PhD Student at UMB <br> 
+Masters Student at UMB <br> 
 📧 [EMAIL](mailto:stella.defibaugh001@umb.edu)
 
 Office Hours: 
