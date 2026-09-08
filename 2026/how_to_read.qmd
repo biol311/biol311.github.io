@@ -1,0 +1,27 @@
+---
+title: "How to Read a Scientific Paper"
+---
+
+<p>Reading scientific papers for the first time is not a simple task. The language is stilted and strange. Jargon flies around casually. And once you get the gist of the paper, it&rsquo;s difficult to hold on to where it fits in into the grand progression of ideas of science. Below are a few links to helpful resources on reading a paper.</p>
+<p>First, though, here&rsquo;s a mashup of some techniques that I have found helpful in the past as I began to read the literature. It&rsquo;s a sort of altered reading order, rather than reading straight through, but it can help quite a bit as you begin to get a handle on the literature.</p>
+<ol>
+    <li>Read the abstract first. Really understand what the authors said they did and why it matters.</li>
+    <li>Read the last (or last two) paragraphs of the introduction, where the authors tell you what they tested and how in a brief summary. Write down their major questions.</li>
+    <li>Then read the methods. Sketch out each experiment, and above the sketch write the question the experiment was trying to answer or hypothesis it was testing.</li>
+    <li>Then read the figures. On each one, write the main point and draw all over it to make it clearer to you. Skim the results and see if they have any additional information other than statistical tests.</li>
+    <li>Read the discussion. Start with the first paragraph which should contain their main conclusions. Write down the answer to each of their major questions.</li>
+    <li>Ask yourself if you agree with what they say about their experiments. You may, or you may find some holes you want to note.</li>
+    <li>Last, read the introduction. All the way. Sit back and think about the big picture of why they did this work. Did the experiments, as you understood them, address or advance the field of knowledge they set out to advance?</li>
+</ol>
+<p>But don&rsquo;t just try the above. Check out these resources on reading papers and see what works best for you:</p>
+<p>&nbsp;</p>
+<p><a href="http://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper">How to deconstruct a scientific paper</a><span>&nbsp;</span>&ndash; a WONDERFUL guide with an alternate reading technique to the above with a great infographic that I've put below</p>
+<p><a href="http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/">How to read and understand a scientific paper: a guide for non (or new!) -scientists</a></p>
+<p><a href="http://www.sciencebuddies.org/science-fair-projects/top_science-fair_how_to_read_a_scientific_paper.shtml">Science Buddies: How to read a scientific paper</a></p>
+<p><a href="http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf">A guide to note-taking while reading a scientific paper</a></p>
+<p><a href="https://journalaccess.aspb.org/ReadaSciPaper/How%20to%20Read%20a%20Scientific%20Paper%20M%20Williams%20Mar%202013.pdf">American Society of Plant Biologists guide to reading a scientific paper</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>OK - here's the infographic of the alternate technique:</p>
+<p>&nbsp;</p>
+<p><img id="494777" src="https://umassboston.instructure.com/courses/45614/files/5079378/preview" alt="infographic-how-to-read-scientific-papers-1-1024.jpg" width="80%" height="80%" data-api-endpoint="https://umassboston.instructure.com/api/v1/courses/45614/files/5079378" data-api-returntype="File" /></p>

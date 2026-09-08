@@ -1,0 +1,42 @@
+---
+title: "🗓️ Week 2 - Life in the Ocean"
+#nocite: |
+---
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-09-14")
+```
+
+In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester. 
+
+## 👨‍🏫 Lecture Slides
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/02_life_in_the_ocean.pptx). 
+
+## ✍️ Coursework
+For all readings, username is biol311 and password is marinebio!!
+
+For lecture, please read [Nybakken and Webster](https://files.celp-lab.org/biol311/readings/life_in_the_ocean.pdf) as a gentle introduction to the diversity of life in the ocean.
+
+For paper discussion, read ____ and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx)
+
+## 📚 Would you like to know more?
+
+How did things evolve to be this way? You can find some answers in [@antell_bottom-up_2021](https://files.celp-lab.org/biol311/readings/Antell%20and%20Saupe%20-%202021%20-%20Bottom-up%20controls,%20ecological%20revolutions%20and%20diversification%20in%20the%20oceans%20through%20time.pdf)
+
+If you're a fish person, see [@betancur-r_phylogenetic_2017](https://files.celp-lab.org/biol311/readings/Betancur-R%20et%20al.%20-%202017%20-%20Phylogenetic%20classification%20of%20bony%20fishes.pdf) on some of the latest about the ways we organize bony fishes.
+
+To understand more about algae and their relationship to land plants, see [@bhattacharya_algal_1998](https://byrneslab.net/biol311/Bhattacharya%20and%20Medlin%20-%201998%20-%20Algal%20Phylogeny%20and%20the%20Origin%20of%20Land%20Plants.pdf)
+
+If you're an invert nerd and are also trying to follow all of the controversies there, see [this review](https://byrneslab.net/biol311/Dunn%20et%20al.%20-%202014%20-%20Animal%20Phylogeny%20and%20Its%20Evolutionary%20Implications.pdf) from @dunn_animal_2014 .
+
+
+
+::: {#refs}
+:::

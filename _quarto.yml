@@ -6,6 +6,7 @@ project:
     - "index.qmd"
     - "2026/*.qmd"
     - "2026/weeks/week01/*.qmd"
+    - "2026/weeks/life_in_the_ocean/*.qmd"
 
 website:
   title: " Biology 311/312: Marine Biology and Ecology"
@@ -24,8 +25,12 @@ website:
     contents:
       - href: 2026/index.qmd
         text: "🏠 Home"
-      #- href: 2026/syllabus.qmd
-      #  text: "📓 Syllabus"
+      - href: https://docs.google.com/document/d/16_qAslz3CDlSPTsFBsmzh6FoDt7uzTt2/
+        text: "📓 Lecture Syllabus"
+      - href: https://docs.google.com/document/d/1vMw3Eo8mr_z8M7ODZBupIUsYICyxFZ--/
+        text: "📓 Lab Syllabus"
+      - href: 2026/how_to_read.qmd
+        text: "📝 Reading Papers"
       # - href: 2026/communication.qmd
       #   text: "📟 Communication"
       # - href: 2026/assignments.qmd
@@ -40,12 +45,17 @@ website:
       - section: "🗓️ Weeks"
         contents:
          - href: 2026/weeks/week01/page.qmd
-           text: Week 01
+           text: "Week 1 - Intro: 9/7/2026"
            contents:
              - href: 2026/weeks/week01/page.qmd
+               text: 👨‍🏫 Lecture Material 
+         - href: 2026/weeks/life_in_the_ocean/page.qmd
+           text: "Week 2 - Life in the Sea: 9/14/2026"
+           contents:
+             - href: 2026/weeks/life_in_the_ocean/page.qmd
                text: 👨‍🏫 Lecture Material
-            #  - href: 2026/weeks/week01/lab.qmd
-            #    text: 🌊 Lab
+             - href: 2026/weeks/life_in_the_ocean/lab.qmd
+               text: 🌊 Lab
             #  - href: 2026/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
 
