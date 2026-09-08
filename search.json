@@ -18,7 +18,7 @@
     "href": "2026/index.html",
     "title": "Biology 311/312: Marine Biology and Ecology",
     "section": "",
-    "text": "Important📢 Important\n\n\n\n\n\n(9/09/2026)\n\n[🗓️ Week 01 lecture material]/(2026/weeks/week01/page.qmd) is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse InstructorTeaching Assistant\n\n\n\nJarrett Byrnes  Associate Professor  UMass Boston 📧 jarrett.byrnes at umb dot edu\nOffice Hours:\n\nWhen: Tuesdays 10am-12pm or by appointment\nWhere: ISC 3130\nHow to book outside of standard hours: https://calendly.com/schedule_meeting_byrnes/30min\n\n\n\n\n\nStella Defibaugh  PhD Student at UMB  📧 EMAIL (stella.defibaugh001 at umb dot edu)\nOffice Hours:\n\nWhen: Wednesdays 10:30-12:30\nWhere: 3rd floor of ISC outside of grad student offices\n\n\n\n\n\n\n📍 Lecture\nMondays 1pm-2:15pm at University Hall Y01-1350\n\n\n🌊 Lab\nVaries - See individual weeks or, by default: Tuesdays 1pm-4p Wheatley-Peters W03-0066",
+    "text": "Important📢 Important\n\n\n\n\n\n(9/07/2026)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse InstructorTeaching Assistant\n\n\n\nJarrett Byrnes  Associate Professor  UMass Boston 📧 jarrett.byrnes at umb dot edu\nOffice Hours:\n\nWhen: Tuesdays 10am-12pm or by appointment\nWhere: ISC 3130\nHow to book outside of standard hours: https://calendly.com/schedule_meeting_byrnes/30min\n\n\n\n\n\nStella Defibaugh  Masters Student at UMB  📧 EMAIL (stella.defibaugh001 at umb dot edu)\nOffice Hours:\n\nWhen: Wednesdays 10:30-12:30\nWhere: 3rd floor of ISC outside of grad student offices\n\n\n\n\n\n\n📍 Lecture\nMondays 1pm-2:15pm at University Hall Y01-1350\n\n\n🌊 Lab\nVaries - See individual weeks or, by default: Tuesdays 1pm-4p Wheatley-Peters W03-0066",
     "crumbs": [
       "🏠 Home"
     ]
@@ -33,9 +33,20 @@
   {
     "objectID": "2026/weeks/week01/page.html",
     "href": "2026/weeks/week01/page.html",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
     "section": "",
-    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.",
+    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#tides-for-this-week",
+    "href": "2026/weeks/week01/page.html#tides-for-this-week",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "",
+    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -44,9 +55,9 @@
   {
     "objectID": "2026/weeks/week01/page.html#lecture-slides",
     "href": "2026/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle.",
+    "text": "👨‍🏫 Lecture Slides\nYou can find the powerpoint file of the slides here. Please review it for deadlines, etc.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -55,20 +66,20 @@
   {
     "objectID": "2026/weeks/week01/page.html#coursework",
     "href": "2026/weeks/week01/page.html#coursework",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧",
+    "text": "✍️ Coursework\nCheck out Chapter 1 of MCEC to learn about the history of marine ecology - not required, but gives a great intro!",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
     ]
   },
   {
-    "objectID": "2026/weeks/week01/page.html#recommended-reading",
-    "href": "2026/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "objectID": "2026/weeks/week01/page.html#additional-reading",
+    "href": "2026/weeks/week01/page.html#additional-reading",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "📚 Additional Reading",
+    "text": "📚 Additional Reading\n\n\nConnell, Joseph H. 1961. “The Influence of Interspecific Competition and Other Factors on the Distribution of the Barnacle Chthamalus Stellatus.” Ecology 42 (4): 710–23. https://doi.org/10.2307/1933500.\n\n\nDobbs, David. 2000. The Great Gulf: Fishermen, Scientists, and the Struggle to Revive the World’s Greatest Fishery. Island Press.\n\n\nField, Christopher B., Michael J. Behrenfeld, James T. Randerson, and Paul Falkowski. 1998. “Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components.” Science 281 (5374): 237–40. https://doi.org/10.1126/science.281.5374.237.\n\n\nLavery, Trish J., Ben Roudnew, Peter Gill, Justin Seymour, Laurent Seuront, Genevieve Johnson, James G. Mitchell, and Victor Smetacek. 2010. “Iron Defecation by Sperm Whales Stimulates Carbon Export in the Southern Ocean.” Proceedings of the Royal Society B: Biological Sciences 277 (1699): 3527–31. https://doi.org/10.1098/rspb.2010.0863.\n\n\nLebrato, Mario, Debora Iglesias-Rodr guez, Richard A. Feely, Dana Greeley, Daniel O. B. Jones, Nadia Suarez-Bosche, Richard S. Lampitt, Joan E. Cartes, Darryl R. H. Green, and Belinda Alker. 2010. “Global Contribution of Echinoderms to the Marine Carbon Cycle: CaCO3 Budget and Benthic Compartments.” Ecological Monographs 80 (3): 441–67. https://doi.org/10.1890/09-0553.1.\n\n\nPaine, Robert T. 1966. “Food Web Compexity and Species Diversity.” American Naturalist 100: 65–75. https://doi.org/10.1086/282400.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -77,7 +88,7 @@
   {
     "objectID": "2026/weeks/week01/page.html#communication",
     "href": "2026/weeks/week01/page.html#communication",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
     "section": "📟 Communication",
     "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
     "crumbs": [
