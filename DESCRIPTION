@@ -1,0 +1,14 @@
+Package: biol311website
+Type: Package
+Title: BIOL311 Course Website
+Version: 0.1.0
+Imports:
+    rmarkdown,
+    quarto,
+    ggplot2,
+    dplyr,
+    plotly,
+    lubridate,
+    MarineTides
+Remotes:
+    arestrom/MarineTides
