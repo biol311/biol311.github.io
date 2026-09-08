@@ -65,8 +65,8 @@ csl: references/chicago-author-date.csl
 
 format:
   html:
-    author: Dr. [Jarrett Byrnes](http://celp-lab.org)
-    author-meta: Dr. Jarrett Byrnes
+   # author: Dr. [Jarrett Byrnes](http://celp-lab.org)
+    #author-meta: Dr. Jarrett Byrnes
     date-format: "DD MMMM YYYY"
 
     email-obfuscation: javascript

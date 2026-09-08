@@ -7,9 +7,9 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Important
 
-(9/09/2026)
+(9/07/2026)
 
-- [🗓️ Week 01 lecture material]/(2026/weeks/week01/page.qmd) is now available!
+- [🗓️ Week 01 lecture material](http://files.celp-lab.org/biol311/lectures/01_intro_2026.ppt) is now available!
 
 :::
 
