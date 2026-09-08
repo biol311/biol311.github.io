@@ -22,7 +22,18 @@ jobs:
           use-public-rspm: true
 
       - name: Install rmarkdown
-        run: install.packages("rmarkdown");install.packages("ggplot2")
+        run: |
+          install.packages("rmarkdown")
+          install.packages("ggplot2")
+          install.packages("remotes")
+        shell: Rscript {0}
+        
+      - name: Install tides
+        run: |
+          remotes::install_github("arestrom/MarineTides")
+          install.packages("plotly")
+          install.packages("lubridate")
+          install.packages("dplyr")
         shell: Rscript {0}
 
       - name: Set up Quarto
