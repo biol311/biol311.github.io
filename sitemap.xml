@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://biol311.github.io/2026/weeks/life_in_the_ocean/page.html</loc>
+    <lastmod>2026-09-08T20:25:07.661Z</lastmod>
+  </url>
+  <url>
     <loc>https://biol311.github.io/2026/weeks/week01/slides.html</loc>
-    <lastmod>2026-09-08T18:31:19.089Z</lastmod>
+    <lastmod>2026-09-08T20:25:07.661Z</lastmod>
   </url>
   <url>
     <loc>https://biol311.github.io/2026/index.html</loc>
-    <lastmod>2026-09-08T18:31:19.089Z</lastmod>
+    <lastmod>2026-09-08T20:25:07.617Z</lastmod>
   </url>
   <url>
     <loc>https://biol311.github.io/index.html</loc>
-    <lastmod>2026-09-08T18:31:19.121Z</lastmod>
+    <lastmod>2026-09-08T20:25:07.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biol311.github.io/2026/how_to_read.html</loc>
+    <lastmod>2026-09-08T20:25:07.617Z</lastmod>
   </url>
   <url>
     <loc>https://biol311.github.io/2026/weeks/week01/page.html</loc>
-    <lastmod>2026-09-08T18:31:19.089Z</lastmod>
+    <lastmod>2026-09-08T20:25:07.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biol311.github.io/2026/weeks/life_in_the_ocean/lab.html</loc>
+    <lastmod>2026-09-08T20:25:07.661Z</lastmod>
   </url>
 </urlset>
