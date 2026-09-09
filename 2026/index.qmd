@@ -7,6 +7,10 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Important
 
+(9/09/2026)  
+
+- Readings and assignments for week 2 [are up](/2026/weeks/life_in_the_ocean/page.html)! (u/p biol311/marinebio!!)
+
 (9/07/2026)
 
 - [🗓️ Week 01 lecture material](http://files.celp-lab.org/biol311/lectures/01_intro_2026.ppt) is now available!
