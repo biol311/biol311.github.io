@@ -6,15 +6,15 @@ format: html
 
 ::: {.callout-important collapse=false}
 ## 📢 Important
+(9/21/2026)
+- Please note, for the lab the week of 9/28, we will meet at 6am on Monday the 28th in the Bayside parking lot! See you there! (hey, the best tides were over the weekend, but I took pity on you - also they were before sunrise).
 
-(9/09/2026)  
 
-- Readings and assignments for week 2 [are up](/2026/weeks/life_in_the_ocean/page.html)! (u/p biol311/marinebio!!)
+(9/20/2026)
 
-(9/07/2026)
+- Readings for week 3 [are up](/2026/weeks/marine_biogeography/page.qmd) - go get 'em!
 
-- [🗓️ Week 01 lecture material](http://files.celp-lab.org/biol311/lectures/01_intro_2026.ppt) is now available!
-
+- Please go check out the prep for the [dock data analysis lab](labs/dock_lab/in_class_lab.qmd)
 :::
 
 
