@@ -1,0 +1,259 @@
+---
+title: "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks"
+---
+
+Last week, we went right out to the field and began to explore. I tasked you with coming up with a question based on observations, and then executing a samplign design. This week, we're going to dig a bit more into what it means to answer a question in nature, and how to analyze data once you've gotten it.
+
+By the end of this lab, you'll be ready to write your [first lab report](./dock_lab_writeup_template.docx)
+
+## 🗺️ When and Where
+We will meet for lab in our assigned space for the week. This will be a more computational lab, so make sure to bring your laptop or other device.
+
+## 💻 Preparation for Lab: Software
+
+We will be doing some basic data manipulation, graphing, and summary statistics. You will need Excel or something similar installed for data entry and some light manipulation, discussed below. Google Sheets will also work.
+
+For analysis, I'd like you to download [Jamovi](https://www.jamovi.org/index.html). Jamovi is a nice lightweight open source tool that gives you point and click access to a wide variety of simple statistics (and some complex ones) as well as fairly decent plots of your data. 
+
+[Download and install Jamovi on your computer](https://www.jamovi.org/download.html)
+
+If you end up not liking Jamovi for your plots, there are a few great online options out there for generating nice plots. Here are a few I would recommend:
+
+- [esquisse](https://dreamrs.shinyapps.io/esquisse/) - uses ggplot2  
+- [ggplot gui](https://shiny.gmw.rug.nl/ggplotgui/) - does what it says on the tin, and also offers plotly extensions
+
+## 📊🦀 Preparation for Lab: What to do with the data from last week?
+
+Last week I had you put together a data table of some sort. Something that looked like the following.
+
+
+| Plot | Condition | Species   | Percent Cover  |   |   |   |   |   |   |
+|------|-----------|-----------|----------------|---|---|---|---|---|---|
+| 1    | Sunny     | Botryllus | 10             |   |   |   |   |   |   |
+| 1    | Sunny     | Mussels   | 0              |   |   |   |   |   |   |
+| 1    | Sunny     | Algae     | 80             |   |   |   |   |   |   |
+| 1    | Sunny     | Bare      | 10             |   |   |   |   |   |   |
+| 2    | Dark      | Botryllus | 40             |   |   |   |   |   |   |
+| 2    | Dark      | Mussels   | 40             |   |   |   |   |   |   |
+
+
+Please make sure your group brings this to class as in an Excel or Google Sheets (excel preferred) file. Each member of your group should have a copy to work from.
+
+## ⁉️ Asking Questions About the World
+
+Where do questions come from? When we learn the Scientific Method, we go through the typical observation -> question -> topic workflow, but, it's not always clear how you start that process. Or how you form a hypothesis and conduct a well designed study.
+
+::: {.callout-tip}
+## Reflection: How did you observe?
+You all began to poke around the docks last week. What were things you saw that led you to questions or hypotheses?
+:::
+
+Sometimes going from observation -> question is clear enough. But scientists also don't blindly wander in the wilderness, seeing things and  *de novo* turning it into a question or hypothesis. We have disciplines. Within those, we have topics and things we are interested in. It might be a system we're interested in. For example, I'm endlessly fascinated by kelp forests.  It might be a body of theory. I'm deeply curious about Foundation Species and how they shape the world around us.
+
+::: {.callout-tip}
+## Reflection: What are your interests?
+What ecosystems and bodies of theory/questions are you most interested in? Did any theory drive any of your initial thoughts - or are there biological theories that you find particularly interesting?
+:::
+
+These interests guide us in how we conduct ourselves as scientists. 
+
+Once we have some observations of a system filtered through our interests and *a priori* knowledge, in order to turn it into a structured question and hypothesis, we need to think about how the world works. Well, but the ENTIRE world, but at least our corner of the world we want to study.  Why?
+
+There are three main domains of inquiry when taking data. Depending on our goals, each will guide us in how our study works. They are Description, Prediction, and Causal Understanding.
+
+::: {.callout-important appearance="simple"}
+- **Description**: Quantifying a measurement (how many mussels are here) or correlation (when we have more mussels do we have less algae?). Not positing WHY by positing WHAT is there.
+
+- **Prediction**: What might happen under a different set of conditions? This might seem like it requires causal knowledge, but, oddly, it doesn't as long as you are within the current range of observed conditions (although if you do have causal knowledge, you can go outside of that).
+
+- **Causal Understanding**: If I were to change A, how would B change? If I took the sunlight away from a patch of the docks, how would algal cover change? This requires understanding the causal connections between two quantities, and it requires us to think about counterfactual scenarios (what would happen if...). To some extent, we're always reaching for this level of understanding, but it's hard. Nature loves to trick us!
+:::
+
+Once we have a goal in mind, we can then ask a targeted and specific question. 
+
+::: {.callout-tip}
+## Reflection: What's your question?
+
+Based on this framing, what would you say your group's question was? Where did it fall in the framing of the three goals of a scientific study?
+
+:::
+
+
+## 🗺️ Systems Thinking to Make a Map of Your World
+
+To figure out how to answer our question - and perhaps even refine it a bit - we have to think about how we would apply our question to the world as it is. One we understand how we think the world works, we can establish the best study design possible. 
+
+To develop this understanding - regardless of which of the three areas of study we are pursuing - we must make a diagram of how we think our system works. In this diagram, we will think about the causal connections between the different elements of the system. I like to do this using something called a [DAG or Directed Acyclic Graph](https://www.jclinepi.com/article/S0895-4356(21)00240-7/fulltext). Don't worry, these aren't intimidating things - just box and arrow diagrams where the boxes or words represent things in the system and arrows represent causal relationships.
+
+If we don't know the specific natural history, we can rely on our knowledge of general principles of marine biology. For example, let's say I was interested in how flow influenced tunicates on a dock. I might start by thinking about how flow influences filter feeders in general.
+
+```{dot}
+//| fig-height: 2.5
+
+digraph G {
+    fontsize="10"
+    node [shape=plaintext]
+
+    flow -> food
+    flow -> larvae
+    larvae -> "filter feeder"
+    food -> "filter feeder"
+}
+```
+
+OK - that's a start. Maybe I want to add competitors like algae, as I think about competition a lot. But then I also need to think about things that drive algae!
+
+```{dot}
+//| fig-height: 2.5
+
+digraph G {
+    fontsize="10"
+    node [shape=plaintext]
+
+    flow -> food
+    flow -> larvae
+    larvae -> "filter feeder"
+    food -> "filter feeder"
+    
+    flow -> "nutrient delivery"
+    "nutrient delivery" -> algae
+    algae -> "filter feeder"
+    light -> algae
+}
+```
+
+OK, now I can turn this into a diagram more specific to docks.
+
+```{dot}
+//| fig-height: 3
+
+digraph G {
+    fontsize="10"
+    node [shape=plaintext]
+
+    flow -> food
+    flow -> larvae
+    larvae -> tunicates
+    food -> tunicates
+    
+    flow -> "nutrient delivery"
+    "nutrient delivery" -> "ulva"
+    "ulva" -> tunicates
+    light -> "ulva"
+}
+```
+
+And maybe add some more details about docks *per se*
+
+```{dot}
+//| fig-height: 3.2
+
+digraph G {
+    fontsize="10"
+    node [shape=plaintext]
+    
+    "dock orientation" -> light
+    "distance from end of dock" -> light
+    "distance from end of dock" -> flow
+    "proximity to open water" -> flow
+    "boat presence" -> flow
+    "boat presence" -> light
+
+    flow -> food
+    flow -> larvae
+    larvae -> tunicates
+    food -> tunicates
+    
+    flow -> "nutrient delivery"
+    "nutrient delivery" -> "ulva"
+    "ulva" -> tunicates
+    light -> "ulva"
+}
+```
+
+OK! Now things are interesting, and we can begin to think about how to take apart a dock ecosystem and ask questions!
+
+::: {.callout-tip}
+## Reflection: What do you think the world looks like?
+
+Sit down with your group and puzzle out, based on your observations of the dock, a DAG of the system as it relates to your question and all of the species you sampled. It's OK to go through multiple iterations. Once done, put it up on the board.
+:::
+
+## 🧫 Study Design
+
+Great! Armed with the diagram above, we can ask a **targeted question** and design a study. For example, my initial question was: How does flow influence tunicate abundance? But now, I see that flow 1) has multiple pathways through which it might influence tunicates and 2) is confounded with other things we need to control for.
+
+How might this influence our study design? Well, for one, it tells us that, because flow also unfluences *Ulva*, which influences tunicates, we'll need to measure *Ulva* to control for it. It also raises questions about what we should use as a proxy for flow. Distance from end of dock - while important - seems like it might not be enough. Proximity to open water - that looks good.  All of these suppose we can't measure flow itself. We also see boat presence might influence flow.
+
+That's a lot! But, our diagram gives us a few strategies for success. First, assuming we don't have a 'flow meter' - we can choose some predictor variables. In this case, let's go with proximity to open water and distance from end of dock. We also have a response - tunicate cover. And, as we've noticed in the diagram, we need to control for *Ulva* cover. So we'll need to measure that, too!
+
+::: {.callout-tip}
+## Reflection: What did you measure?
+
+Look back at your data and sampling plan. What did your group decide to measure? Why? Does it make sense given your now more up-to-date DAG of how the world works?
+:::
+
+OK, now that we have some predictor variables, some things we're going to control over, and a target response variable, we can apply some simple principles to make a well designed study.
+
+1. You want to maximize the variation in your predictor conditions. A bigger range will give you more power to discern a difference.  
+
+2. You want to make sure, for every set of conditions, you have replication. Why? Well, look at it this way. If you went out and sampled one plot close to open water and one plot far away, and it just so happened that your plot close to the water had a boat recently crash into it (oops! What, was your professor practicing docking?) what you observe might have very little to do with the phenomenon you are studying. Better to take lots of measurements for each set of conditions to ensure you get an accurate estimate of its effect. Typically something like 5-7 replicates per unique set of conditions. If you have a continuous set of predictors, for each predictor you have, again, 5-7 (or better, 10) samples across the gradient of that predictor is a decent rule of thumb - more if one predictor can influence the other.
+
+::: {.callout-tip}
+## Reflection: Your sampling design
+
+While I pushed you to embrace some of the principles above, look at the diagram you made last week of your sampling design. Was it adequate? If you were to re-do the study, what would your sampling design look like. Work with your group to diagram out a new design.
+:::
+
+## ⚓️ Let's get to data: Long and Wide
+
+The data example data I gave you - and likely how you recorded data yourself -  is in what we call a **LONG** format, where every observation has one row.
+
+
+| Plot | Condition | Species   | Percent Cover  |   |   |   |   |   |   |
+|------|-----------|-----------|----------------|---|---|---|---|---|---|
+| 1    | Sunny     | Botryllus | 10             |   |   |   |   |   |   |
+| 1    | Sunny     | Mussels   | 0              |   |   |   |   |   |   |
+| 1    | Sunny     | Algae     | 80             |   |   |   |   |   |   |
+| 1    | Sunny     | Bare      | 10             |   |   |   |   |   |   |
+| 2    | Dark      | Botryllus | 40             |   |   |   |   |   |   |
+| 2    | Dark      | Mussels   | 40             |   |   |   |   |   |   |
+
+So, plot 1 which is sunny has one row per observation of a species. This is a great format to work with in terms of efficiency - if we didn't observe a species it won't have a row! If we DO have a 0 for each species when we don't observe it, this is a great format for doing things like comparing the cover of each individual species to one another in a boxplot or some such (more on that soon).  
+
+This format contrasts to a **WIDE* data set.
+
+| Plot | Condition | Botryllus Cover   | Mussels Cover  | Algae Cover  |   | Bare Cover  |   |   |   |
+|------|-----------|-----------|----------------|---|---|---|---|---|---|
+| 1    | Sunny     | 10 | 0             | 80  |   10 |     |   |   |   |
+| 2    | Dark     | 40   | 40              |  20 |   0  |     |   |   |   |
+
+Note how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just *Botryllus*? Or if the relationship between Mussels and Algae changed in light versus dark?
+
+## 🔂 Pivoting your data
+
+Spreadsheets. What are they good for? Well. One thing. Data entry. By embracing the spreadsheet mindset, and thinking about wide or long data, you will a) become really good at designing [field data collection sheets](./Dock Datasheets.xlsx) and b) develop good data entry practices quite quickly. I encourage it!
+
+Now, what about the other things you can do in a spreadsheet? Honestly, I discourage use of their other functions unless you have a dire emergency. In my own work, I do all data analysis and figure making using programming. Why? To ensure that my entire workflow is repeatable and auditible. This is a cornerstone of good open and reproducible science.
+
+But - that's a whole different course! So, we're going to use spreadsheets for a few tools they can give us. The first, is going from wide to long, and for that, [let's work through this handout](./pivoting_data.docx) together using [this data](./long_dock_data.xlsx). I'm going to teach you how to use something called Pivot Tables to move back and forth from wide to long.
+
+::: {.callout-important}
+## Pivot time!
+
+Make sure your data is in a nice long or wide format. Then, pivot your data from wide to long and back!
+:::
+
+## 💻 Jamovi
+
+To analyze your data, you need software! We're going to work with some point-and-click stats software called [Jamovi](https://www.jamovi.org/index.html). Let's work through it together
+
+
+::: {.callout-important}
+## Let's Look at Your Data!
+Take one of your group's questions and work together to answer it with a figure and brief analysis using Jamovi!
+:::
+
+## 📓 Lab Report
+
+For next week, please complete [this lab report writeup](./dock_lab_writeup_template.docx) using Jamovi for analysis and figures. Note, you'll have to pivot your data as well! You'll turn your assignment in on canvas.

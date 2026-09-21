@@ -7,6 +7,8 @@ project:
     - "2026/*.qmd"
     - "2026/weeks/week01/*.qmd"
     - "2026/weeks/life_in_the_ocean/*.qmd"
+    - "2026/weeks/marine_biogeography/*.qmd"
+    - "2026/labs/dock_lab/*.qmd"
 
 website:
   title: " Biology 311/312: Marine Biology and Ecology"
@@ -49,6 +51,7 @@ website:
            contents:
              - href: 2026/weeks/week01/page.qmd
                text: 👨‍🏫 Lecture Material 
+               
          - href: 2026/weeks/life_in_the_ocean/page.qmd
            text: "Week 2 - Life in the Sea: 9/14/2026"
            contents:
@@ -56,8 +59,14 @@ website:
                text: 👨‍🏫 Lecture Material
              - href: 2026/weeks/life_in_the_ocean/lab.qmd
                text: 🌊 Lab
-            #  - href: 2026/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
+               
+         - href: 2026/weeks/marine_biogeography/page.qmd
+           text: "Week 3 - Marine Biogeography: 9/21/2026"
+           contents:
+             - href: 2026/weeks/marine_biogeography/page.qmd
+               text: 👨‍🏫 Lecture Material
+             - href: 2026/labs/dock_lab/in_class_lab.qmd
+               text: 🌊 Lab
 
   navbar:
     background: primary

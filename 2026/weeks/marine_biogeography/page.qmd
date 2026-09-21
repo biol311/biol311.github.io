@@ -1,0 +1,49 @@
+---
+title: "🗓️ Week 03 - Introduction, Context & Key Concepts"
+---
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-09-21")
+```
+
+<b>Note: No class on Monday due to Yom Kippur.</b>
+
+In this week, we will work to understand how and why are organisms distributed across the ocean. We will look at major current systems and how they influence the biogeography of life in the sea with a focus on the Gulf of Maine. We will examine the role of dispersal in regulating biogeography in the face of these currents, as well as how organisms cope with being something other than passive particles. Finally, we will discussthe role of current and historic abiotic conditions driving macroscale patterns life at sea.
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/03_ocean_biogeography.pptx). 
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+Please read [Sanford 2013](https://files.celp-lab.org/biol311/readings/flow_biogeography/MCEC_07_biogeography_Sanford_2013_Ch7_MCEC.pdf) for lecture this week. 
+
+There will be no paper discussion or assignment this week.
+
+## 🧠🐛❓ Would you like to know more?
+
+For a good review of the early history of supply-side ecology, see [@grosbergAdultsOnlySupplyside1992](https://files.celp-lab.org/biol311/readings/flow_biogeography/1992-Grosberg-R.-K.-and-D.-R.-Levitan.pdf).
+
+For more on global biogeography and its relationship to dispersal, see [@alvarez-noriegaGlobalBiogeographyMarine2020](https://files.celp-lab.org/biol311/readings/flow_biogeography/Alvarez-Noriega_et-al_2020.pdf)
+
+To understand the paleo-perspective on biogeography, see [@JablonskiSepkoski1996](https://files.celp-lab.org/biol311/readings/flow_biogeography/Ecology%20-%201996%20-%20Jablonski%20-%20Paleobiology%20%20Community%20Ecology%20%20and%20Scales%20of%20Ecological%20Pattern.pdf), a classic.
+
+To really get into the local adaptation side of marine invertebrates and how that relates to dispersal, see this excellent review by [@sanfordLocalAdaptationMarine2011a](https://files.celp-lab.org/biol311/readings/flow_biogeography/Sanford_Kelly_2011.pdf)
+
+To learn more about currents in the Gulf of Maine and kelp dispersal biogeography, see [@francoliniSugarKelpSaccharina2026a](https://files.celp-lab.org/biol311/readings/flow_biogeography/Francolini%20et%20al.%20-%202026%20-%20Sugar%20kelp%20(Saccharina%20latissima)%20population%20genetics%20map%20onto%20geographic%20distance%20and%20oceanographic.pdf)
+
+The Cradle, Museum, Out of the Tropics model we discussed this week comes from [Jablonski et al. 2006](https://files.celp-lab.org/biol311/readings/flow_biogeography/jablonski_etal_06.pdf)
+
+The working group papser on the biogeography of extinction and risk comes from [@finneganPaleontologicalBaselinesEvaluating2015a](https://files.celp-lab.org/biol311/readings/flow_biogeography/Finnegan%202015%20Science.pdf) - the first time your prof was ever called a "Neoecologist".
+
+## 📚  References
+
+::: {#refs}
+:::
