@@ -1,175 +1,200 @@
 [
   {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html",
-    "href": "2026/weeks/life_in_the_ocean/page.html",
-    "title": "🗓️ Week 2 - Life in the Ocean",
+    "objectID": "2026/labs/dock_lab/in_class_lab.html",
+    "href": "2026/labs/dock_lab/in_class_lab.html",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
     "section": "",
-    "text": "In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester.",
+    "text": "Last week, we went right out to the field and began to explore. I tasked you with coming up with a question based on observations, and then executing a samplign design. This week, we’re going to dig a bit more into what it means to answer a question in nature, and how to analyze data once you’ve gotten it.\nBy the end of this lab, you’ll be ready to write your first lab report",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
     ]
   },
   {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html#tides-for-this-week",
-    "href": "2026/weeks/life_in_the_ocean/page.html#tides-for-this-week",
-    "title": "🗓️ Week 2 - Life in the Ocean",
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#when-and-where",
+    "href": "2026/labs/dock_lab/in_class_lab.html#when-and-where",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "🗺️ When and Where",
+    "text": "🗺️ When and Where\nWe will meet for lab in our assigned space for the week. This will be a more computational lab, so make sure to bring your laptop or other device.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#preparation-for-lab-software",
+    "href": "2026/labs/dock_lab/in_class_lab.html#preparation-for-lab-software",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "💻 Preparation for Lab: Software",
+    "text": "💻 Preparation for Lab: Software\nWe will be doing some basic data manipulation, graphing, and summary statistics. You will need Excel or something similar installed for data entry and some light manipulation, discussed below. Google Sheets will also work.\nFor analysis, I’d like you to download Jamovi. Jamovi is a nice lightweight open source tool that gives you point and click access to a wide variety of simple statistics (and some complex ones) as well as fairly decent plots of your data.\nDownload and install Jamovi on your computer\nIf you end up not liking Jamovi for your plots, there are a few great online options out there for generating nice plots. Here are a few I would recommend:\n\nesquisse - uses ggplot2\n\nggplot gui - does what it says on the tin, and also offers plotly extensions",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#preparation-for-lab-what-to-do-with-the-data-from-last-week",
+    "href": "2026/labs/dock_lab/in_class_lab.html#preparation-for-lab-what-to-do-with-the-data-from-last-week",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "📊🦀 Preparation for Lab: What to do with the data from last week?",
+    "text": "📊🦀 Preparation for Lab: What to do with the data from last week?\nLast week I had you put together a data table of some sort. Something that looked like the following.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nSpecies\nPercent Cover\n\n\n\n\n\n\n\n\n\n\n1\nSunny\nBotryllus\n10\n\n\n\n\n\n\n\n\n1\nSunny\nMussels\n0\n\n\n\n\n\n\n\n\n1\nSunny\nAlgae\n80\n\n\n\n\n\n\n\n\n1\nSunny\nBare\n10\n\n\n\n\n\n\n\n\n2\nDark\nBotryllus\n40\n\n\n\n\n\n\n\n\n2\nDark\nMussels\n40\n\n\n\n\n\n\n\n\n\nPlease make sure your group brings this to class as in an Excel or Google Sheets (excel preferred) file. Each member of your group should have a copy to work from.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#asking-questions-about-the-world",
+    "href": "2026/labs/dock_lab/in_class_lab.html#asking-questions-about-the-world",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "⁉️ Asking Questions About the World",
+    "text": "⁉️ Asking Questions About the World\nWhere do questions come from? When we learn the Scientific Method, we go through the typical observation -&gt; question -&gt; topic workflow, but, it’s not always clear how you start that process. Or how you form a hypothesis and conduct a well designed study.\n\n\n\n\n\n\nTipReflection: How did you observe?\n\n\n\nYou all began to poke around the docks last week. What were things you saw that led you to questions or hypotheses?\n\n\nSometimes going from observation -&gt; question is clear enough. But scientists also don’t blindly wander in the wilderness, seeing things and de novo turning it into a question or hypothesis. We have disciplines. Within those, we have topics and things we are interested in. It might be a system we’re interested in. For example, I’m endlessly fascinated by kelp forests. It might be a body of theory. I’m deeply curious about Foundation Species and how they shape the world around us.\n\n\n\n\n\n\nTipReflection: What are your interests?\n\n\n\nWhat ecosystems and bodies of theory/questions are you most interested in? Did any theory drive any of your initial thoughts - or are there biological theories that you find particularly interesting?\n\n\nThese interests guide us in how we conduct ourselves as scientists.\nOnce we have some observations of a system filtered through our interests and a priori knowledge, in order to turn it into a structured question and hypothesis, we need to think about how the world works. Well, but the ENTIRE world, but at least our corner of the world we want to study. Why?\nThere are three main domains of inquiry when taking data. Depending on our goals, each will guide us in how our study works. They are Description, Prediction, and Causal Understanding.\n\n\n\n\n\n\n\nDescription: Quantifying a measurement (how many mussels are here) or correlation (when we have more mussels do we have less algae?). Not positing WHY by positing WHAT is there.\nPrediction: What might happen under a different set of conditions? This might seem like it requires causal knowledge, but, oddly, it doesn’t as long as you are within the current range of observed conditions (although if you do have causal knowledge, you can go outside of that).\nCausal Understanding: If I were to change A, how would B change? If I took the sunlight away from a patch of the docks, how would algal cover change? This requires understanding the causal connections between two quantities, and it requires us to think about counterfactual scenarios (what would happen if…). To some extent, we’re always reaching for this level of understanding, but it’s hard. Nature loves to trick us!\n\n\n\n\nOnce we have a goal in mind, we can then ask a targeted and specific question.\n\n\n\n\n\n\nTipReflection: What’s your question?\n\n\n\nBased on this framing, what would you say your group’s question was? Where did it fall in the framing of the three goals of a scientific study?",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#systems-thinking-to-make-a-map-of-your-world",
+    "href": "2026/labs/dock_lab/in_class_lab.html#systems-thinking-to-make-a-map-of-your-world",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "🗺️ Systems Thinking to Make a Map of Your World",
+    "text": "🗺️ Systems Thinking to Make a Map of Your World\nTo figure out how to answer our question - and perhaps even refine it a bit - we have to think about how we would apply our question to the world as it is. One we understand how we think the world works, we can establish the best study design possible.\nTo develop this understanding - regardless of which of the three areas of study we are pursuing - we must make a diagram of how we think our system works. In this diagram, we will think about the causal connections between the different elements of the system. I like to do this using something called a DAG or Directed Acyclic Graph. Don’t worry, these aren’t intimidating things - just box and arrow diagrams where the boxes or words represent things in the system and arrows represent causal relationships.\nIf we don’t know the specific natural history, we can rely on our knowledge of general principles of marine biology. For example, let’s say I was interested in how flow influenced tunicates on a dock. I might start by thinking about how flow influences filter feeders in general.\n\n\n\n\n\n\n\nG\n\n\n\nflow\nflow\n\n\n\nfood\nfood\n\n\n\nflow-&gt;food\n\n\n\n\n\nlarvae\nlarvae\n\n\n\nflow-&gt;larvae\n\n\n\n\n\nfilter feeder\nfilter feeder\n\n\n\nfood-&gt;filter feeder\n\n\n\n\n\nlarvae-&gt;filter feeder\n\n\n\n\n\n\n\n\n\n\nOK - that’s a start. Maybe I want to add competitors like algae, as I think about competition a lot. But then I also need to think about things that drive algae!\n\n\n\n\n\n\n\nG\n\n\n\nflow\nflow\n\n\n\nfood\nfood\n\n\n\nflow-&gt;food\n\n\n\n\n\nlarvae\nlarvae\n\n\n\nflow-&gt;larvae\n\n\n\n\n\nnutrient delivery\nnutrient delivery\n\n\n\nflow-&gt;nutrient delivery\n\n\n\n\n\nfilter feeder\nfilter feeder\n\n\n\nfood-&gt;filter feeder\n\n\n\n\n\nlarvae-&gt;filter feeder\n\n\n\n\n\nalgae\nalgae\n\n\n\nnutrient delivery-&gt;algae\n\n\n\n\n\nalgae-&gt;filter feeder\n\n\n\n\n\nlight\nlight\n\n\n\nlight-&gt;algae\n\n\n\n\n\n\n\n\n\n\nOK, now I can turn this into a diagram more specific to docks.\n\n\n\n\n\n\n\nG\n\n\n\nflow\nflow\n\n\n\nfood\nfood\n\n\n\nflow-&gt;food\n\n\n\n\n\nlarvae\nlarvae\n\n\n\nflow-&gt;larvae\n\n\n\n\n\nnutrient delivery\nnutrient delivery\n\n\n\nflow-&gt;nutrient delivery\n\n\n\n\n\ntunicates\ntunicates\n\n\n\nfood-&gt;tunicates\n\n\n\n\n\nlarvae-&gt;tunicates\n\n\n\n\n\nulva\nulva\n\n\n\nnutrient delivery-&gt;ulva\n\n\n\n\n\nulva-&gt;tunicates\n\n\n\n\n\nlight\nlight\n\n\n\nlight-&gt;ulva\n\n\n\n\n\n\n\n\n\n\nAnd maybe add some more details about docks per se\n\n\n\n\n\n\n\nG\n\n\n\ndock orientation\ndock orientation\n\n\n\nlight\nlight\n\n\n\ndock orientation-&gt;light\n\n\n\n\n\nulva\nulva\n\n\n\nlight-&gt;ulva\n\n\n\n\n\ndistance from end of dock\ndistance from end of dock\n\n\n\ndistance from end of dock-&gt;light\n\n\n\n\n\nflow\nflow\n\n\n\ndistance from end of dock-&gt;flow\n\n\n\n\n\nfood\nfood\n\n\n\nflow-&gt;food\n\n\n\n\n\nlarvae\nlarvae\n\n\n\nflow-&gt;larvae\n\n\n\n\n\nnutrient delivery\nnutrient delivery\n\n\n\nflow-&gt;nutrient delivery\n\n\n\n\n\nproximity to open water\nproximity to open water\n\n\n\nproximity to open water-&gt;flow\n\n\n\n\n\nboat presence\nboat presence\n\n\n\nboat presence-&gt;light\n\n\n\n\n\nboat presence-&gt;flow\n\n\n\n\n\ntunicates\ntunicates\n\n\n\nfood-&gt;tunicates\n\n\n\n\n\nlarvae-&gt;tunicates\n\n\n\n\n\nnutrient delivery-&gt;ulva\n\n\n\n\n\nulva-&gt;tunicates\n\n\n\n\n\n\n\n\n\n\nOK! Now things are interesting, and we can begin to think about how to take apart a dock ecosystem and ask questions!\n\n\n\n\n\n\nTipReflection: What do you think the world looks like?\n\n\n\nSit down with your group and puzzle out, based on your observations of the dock, a DAG of the system as it relates to your question and all of the species you sampled. It’s OK to go through multiple iterations. Once done, put it up on the board.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#study-design",
+    "href": "2026/labs/dock_lab/in_class_lab.html#study-design",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "🧫 Study Design",
+    "text": "🧫 Study Design\nGreat! Armed with the diagram above, we can ask a targeted question and design a study. For example, my initial question was: How does flow influence tunicate abundance? But now, I see that flow 1) has multiple pathways through which it might influence tunicates and 2) is confounded with other things we need to control for.\nHow might this influence our study design? Well, for one, it tells us that, because flow also unfluences Ulva, which influences tunicates, we’ll need to measure Ulva to control for it. It also raises questions about what we should use as a proxy for flow. Distance from end of dock - while important - seems like it might not be enough. Proximity to open water - that looks good. All of these suppose we can’t measure flow itself. We also see boat presence might influence flow.\nThat’s a lot! But, our diagram gives us a few strategies for success. First, assuming we don’t have a ‘flow meter’ - we can choose some predictor variables. In this case, let’s go with proximity to open water and distance from end of dock. We also have a response - tunicate cover. And, as we’ve noticed in the diagram, we need to control for Ulva cover. So we’ll need to measure that, too!\n\n\n\n\n\n\nTipReflection: What did you measure?\n\n\n\nLook back at your data and sampling plan. What did your group decide to measure? Why? Does it make sense given your now more up-to-date DAG of how the world works?\n\n\nOK, now that we have some predictor variables, some things we’re going to control over, and a target response variable, we can apply some simple principles to make a well designed study.\n\nYou want to maximize the variation in your predictor conditions. A bigger range will give you more power to discern a difference.\nYou want to make sure, for every set of conditions, you have replication. Why? Well, look at it this way. If you went out and sampled one plot close to open water and one plot far away, and it just so happened that your plot close to the water had a boat recently crash into it (oops! What, was your professor practicing docking?) what you observe might have very little to do with the phenomenon you are studying. Better to take lots of measurements for each set of conditions to ensure you get an accurate estimate of its effect. Typically something like 5-7 replicates per unique set of conditions. If you have a continuous set of predictors, for each predictor you have, again, 5-7 (or better, 10) samples across the gradient of that predictor is a decent rule of thumb - more if one predictor can influence the other.\n\n\n\n\n\n\n\nTipReflection: Your sampling design\n\n\n\nWhile I pushed you to embrace some of the principles above, look at the diagram you made last week of your sampling design. Was it adequate? If you were to re-do the study, what would your sampling design look like. Work with your group to diagram out a new design.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#lets-get-to-data-long-and-wide",
+    "href": "2026/labs/dock_lab/in_class_lab.html#lets-get-to-data-long-and-wide",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "⚓️ Let’s get to data: Long and Wide",
+    "text": "⚓️ Let’s get to data: Long and Wide\nThe data example data I gave you - and likely how you recorded data yourself - is in what we call a LONG format, where every observation has one row.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nSpecies\nPercent Cover\n\n\n\n\n\n\n\n\n\n\n1\nSunny\nBotryllus\n10\n\n\n\n\n\n\n\n\n1\nSunny\nMussels\n0\n\n\n\n\n\n\n\n\n1\nSunny\nAlgae\n80\n\n\n\n\n\n\n\n\n1\nSunny\nBare\n10\n\n\n\n\n\n\n\n\n2\nDark\nBotryllus\n40\n\n\n\n\n\n\n\n\n2\nDark\nMussels\n40\n\n\n\n\n\n\n\n\n\nSo, plot 1 which is sunny has one row per observation of a species. This is a great format to work with in terms of efficiency - if we didn’t observe a species it won’t have a row! If we DO have a 0 for each species when we don’t observe it, this is a great format for doing things like comparing the cover of each individual species to one another in a boxplot or some such (more on that soon).\nThis format contrasts to a **WIDE* data set.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nBotryllus Cover\nMussels Cover\nAlgae Cover\n\nBare Cover\n\n\n\n\n\n\n\n1\nSunny\n10\n0\n80\n10\n\n\n\n\n\n\n2\nDark\n40\n40\n20\n0\n\n\n\n\n\n\n\nNote how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just Botryllus? Or if the relationship between Mussels and Algae changed in light versus dark?",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#pivoting-your-data",
+    "href": "2026/labs/dock_lab/in_class_lab.html#pivoting-your-data",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "🔂 Pivoting your data",
+    "text": "🔂 Pivoting your data\nSpreadsheets. What are they good for? Well. One thing. Data entry. By embracing the spreadsheet mindset, and thinking about wide or long data, you will a) become really good at designing field data collection sheets and b) develop good data entry practices quite quickly. I encourage it!\nNow, what about the other things you can do in a spreadsheet? Honestly, I discourage use of their other functions unless you have a dire emergency. In my own work, I do all data analysis and figure making using programming. Why? To ensure that my entire workflow is repeatable and auditible. This is a cornerstone of good open and reproducible science.\nBut - that’s a whole different course! So, we’re going to use spreadsheets for a few tools they can give us. The first, is going from wide to long, and for that, let’s work through this handout together using this data. I’m going to teach you how to use something called Pivot Tables to move back and forth from wide to long.\n\n\n\n\n\n\nImportantPivot time!\n\n\n\nMake sure your data is in a nice long or wide format. Then, pivot your data from wide to long and back!",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#jamovi",
+    "href": "2026/labs/dock_lab/in_class_lab.html#jamovi",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "💻 Jamovi",
+    "text": "💻 Jamovi\nTo analyze your data, you need software! We’re going to work with some point-and-click stats software called Jamovi. Let’s work through it together\n\n\n\n\n\n\nImportantLet’s Look at Your Data!\n\n\n\nTake one of your group’s questions and work together to answer it with a figure and brief analysis using Jamovi!",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#lab-report",
+    "href": "2026/labs/dock_lab/in_class_lab.html#lab-report",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "📓 Lab Report",
+    "text": "📓 Lab Report\nFor next week, please complete this lab report writeup using Jamovi for analysis and figures. Note, you’ll have to pivot your data as well! You’ll turn your assignment in on canvas.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/marine_biogeography/page.html",
+    "href": "2026/weeks/marine_biogeography/page.html",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
     "section": "",
-    "text": "In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester.",
+    "text": "Note: No class on Monday due to Yom Kippur.\nIn this week, we will work to understand how and why are organisms distributed across the ocean. We will look at major current systems and how they influence the biogeography of life in the sea with a focus on the Gulf of Maine. We will examine the role of dispersal in regulating biogeography in the face of these currents, as well as how organisms cope with being something other than passive particles. Finally, we will discussthe role of current and historic abiotic conditions driving macroscale patterns life at sea.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html#lecture-slides",
-    "href": "2026/weeks/life_in_the_ocean/page.html#lecture-slides",
-    "title": "🗓️ Week 2 - Life in the Ocean",
-    "section": "👨 🏫 Lecture Slides",
-    "text": "👨 🏫 Lecture Slides\nYou can find the powerpoint file of the slides here.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html#coursework",
-    "href": "2026/weeks/life_in_the_ocean/page.html#coursework",
-    "title": "🗓️ Week 2 - Life in the Ocean",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\nFor all readings, username is biol311 and password is marinebio!!\nFor lecture, please read Nybakken and Webster as a gentle introduction to the diversity of life in the ocean.\nFor paper discussion, read Miller et al. (2018) and then fill out your weekly reading Q&A",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html#would-you-like-to-know-more",
-    "href": "2026/weeks/life_in_the_ocean/page.html#would-you-like-to-know-more",
-    "title": "🗓️ Week 2 - Life in the Ocean",
-    "section": "🧠🐛❓ Would you like to know more?",
-    "text": "🧠🐛❓ Would you like to know more?\nHow did things evolve to be this way? You can find some answers in Antell and Saupe (2021)\nIf you’re a fish person, see Betancur-R et al. (2017) on some of the latest about the ways we organize bony fishes.\nTo understand more about algae and their relationship to land plants, see Bhattacharya and Medlin (1998)\nIf you’re an invert nerd and are also trying to follow all of the controversies there, see this review from Dunn et al. (2014) .",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/life_in_the_ocean/page.html#references",
-    "href": "2026/weeks/life_in_the_ocean/page.html#references",
-    "title": "🗓️ Week 2 - Life in the Ocean",
-    "section": "📚 References",
-    "text": "📚 References\n\n\nAntell, Gawain T., and Erin E. Saupe. 2021. “Bottom-up Controls, Ecological Revolutions and Diversification in the Oceans Through Time.” Current Biology 31 (19): R1237–51. https://doi.org/10.1016/j.cub.2021.08.069.\n\n\nBetancur-R, Ricardo, Edward O. Wiley, Gloria Arratia, Arturo Acero, Nicolas Bailly, Masaki Miya, Guillaume Lecointre, and Guillermo Ortí. 2017. “Phylogenetic Classification of Bony Fishes.” BMC Evolutionary Biology 17 (1): 162. https://doi.org/10.1186/s12862-017-0958-3.\n\n\nBhattacharya, Debashish, and Linda Medlin. 1998. “Algal Phylogeny and the Origin of Land Plants.” Plant Physiology 116 (January). https://doi.org/10.1104/pp.116.1.9.\n\n\nDunn, Casey W., Gonzalo Giribet, Gregory D. Edgecombe, and Andreas Hejnol. 2014. “Animal Phylogeny and Its Evolutionary Implications.” Annual Review of Ecology, Evolution, and Systematics 45 (1): 371–95. https://doi.org/10.1146/annurev-ecolsys-120213-091627.\n\n\nMiller, Elizabeth Christina, Kenji T. Hayashi, Dongyuan Song, and John J. Wiens. 2018. “Explaining the Ocean’s Richest Biodiversity Hotspot and Global Patterns of Fish Diversity.” Proceedings of the Royal Society B: Biological Sciences 285 (1888): 20181314. https://doi.org/10.1098/rspb.2018.1314.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 2 - Life in the Sea: 9/14/2026"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week01/slides.html#your-lecturer",
-    "href": "2026/weeks/week01/slides.html#your-lecturer",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Octopian Professor of Octopus Issues Head of the Python vs R Debate Society\n\n\n\n\nPhD in Octopi Engineering\nBackground: Engineering of Deep Ocean constructions\nFormer Lead Data Scientist\n\ndeep ocean  engineering  octopus"
-  },
-  {
-    "objectID": "2026/weeks/week01/slides.html#teaching-assistants",
-    "href": "2026/weeks/week01/slides.html#teaching-assistants",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Teaching Assistants",
-    "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧"
-  },
-  {
-    "objectID": "2026/index.html",
-    "href": "2026/index.html",
-    "title": "Biology 311/312: Marine Biology and Ecology",
+    "objectID": "2026/weeks/marine_biogeography/page.html#tides-for-this-week",
+    "href": "2026/weeks/marine_biogeography/page.html#tides-for-this-week",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
     "section": "",
-    "text": "Important📢 Important\n\n\n\n\n\n(9/09/2026)\n\nReadings and assignments for week 2 are up! (u/p biol311/marinebio!!)\n\n(9/07/2026)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse InstructorTeaching Assistant\n\n\n\nJarrett Byrnes  Associate Professor  UMass Boston 📧 jarrett.byrnes at umb dot edu\nOffice Hours:\n\nWhen: Tuesdays 10am-12pm or by appointment\nWhere: ISC 3130\nHow to book outside of standard hours: https://calendly.com/schedule_meeting_byrnes/30min\n\n\n\n\n\nStella Defibaugh  Masters Student at UMB  📧 EMAIL (stella.defibaugh001 at umb dot edu)\nOffice Hours:\n\nWhen: Wednesdays 10:30-12:30\nWhere: 3rd floor of ISC outside of grad student offices\n\n\n\n\n\n\n📍 Lecture\nMondays 1pm-2:15pm at University Hall Y01-1350\n\n\n🌊 Lab\nVaries - See individual weeks or, by default: Tuesdays 1pm-4p Wheatley-Peters W03-0066",
-    "crumbs": [
-      "🏠 Home"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Biology 311/312: Marine Biology and Ecology",
-    "section": "",
-    "text": "📑 Course Description\nFocus: This course explores the diversity of biological and ecological processes that shape life in the oceans. It places special emphasis on marine life in New England, focusing on the interactions between humans and the sea. This focus leads to a greater understanding of the consequences of ongoing environmental changes witnessed in the 20th and 21st centuries.\nHow: Lectures, Paper Discussion, and Fieldwork for labs!\n\n\n🎯 Learning Objectives\n\nUnderstand how biological systems are structured and function within the world’s oceans.\n\nLearn how to understand new scientific information and rapidly incorporate it into one’s knowledge of the goods and services produced by our oceans.\nGain an appreciation for how changes in the environment alter life in the sea and the concomitant indirect effects to human society.\nUnderstand the historic, current, and future links between humans in New England and the ocean around us.\n\n🌊 Additionally, for students in lab, we aim to have you:\n\nLearn how experimental and observational data can and cannot be used to answer biological questions.\nLearn how to conduct studies in coastal field environments.\nBe able to conduct a small independent research project.\nBe able to present results from a scientific study to colleagues.\n\n\nSelect Academic Year/Term:\n Fall 2026"
-  },
-  {
-    "objectID": "2026/how_to_read.html",
-    "href": "2026/how_to_read.html",
-    "title": "How to Read a Scientific Paper",
-    "section": "",
-    "text": "Reading scientific papers for the first time is not a simple task. The language is stilted and strange. Jargon flies around casually. And once you get the gist of the paper, it’s difficult to hold on to where it fits in into the grand progression of ideas of science. Below are a few links to helpful resources on reading a paper.\n\n\nFirst, though, here’s a mashup of some techniques that I have found helpful in the past as I began to read the literature. It’s a sort of altered reading order, rather than reading straight through, but it can help quite a bit as you begin to get a handle on the literature.\n\n\n\nRead the abstract first. Really understand what the authors said they did and why it matters.\n\n\nRead the last (or last two) paragraphs of the introduction, where the authors tell you what they tested and how in a brief summary. Write down their major questions.\n\n\nThen read the methods. Sketch out each experiment, and above the sketch write the question the experiment was trying to answer or hypothesis it was testing.\n\n\nThen read the figures. On each one, write the main point and draw all over it to make it clearer to you. Skim the results and see if they have any additional information other than statistical tests.\n\n\nRead the discussion. Start with the first paragraph which should contain their main conclusions. Write down the answer to each of their major questions.\n\n\nAsk yourself if you agree with what they say about their experiments. You may, or you may find some holes you want to note.\n\n\nLast, read the introduction. All the way. Sit back and think about the big picture of why they did this work. Did the experiments, as you understood them, address or advance the field of knowledge they set out to advance?\n\n\n\nBut don’t just try the above. Check out these resources on reading papers and see what works best for you:\n\n\n \n\n\nHow to deconstruct a scientific paper – a WONDERFUL guide with an alternate reading technique to the above with a great infographic that I’ve put below\n\n\nHow to read and understand a scientific paper: a guide for non (or new!) -scientists\n\n\nScience Buddies: How to read a scientific paper\n\n\nA guide to note-taking while reading a scientific paper\n\n\nAmerican Society of Plant Biologists guide to reading a scientific paper\n\n\n \n\n\n \n\n\nOK - here’s the infographic of the alternate technique:",
-    "crumbs": [
-      "📝 Reading Papers"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week01/page.html",
-    "href": "2026/weeks/week01/page.html",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
-    "section": "",
-    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
+    "text": "Note: No class on Monday due to Yom Kippur.\nIn this week, we will work to understand how and why are organisms distributed across the ocean. We will look at major current systems and how they influence the biogeography of life in the sea with a focus on the Gulf of Maine. We will examine the role of dispersal in regulating biogeography in the face of these currents, as well as how organisms cope with being something other than passive particles. Finally, we will discussthe role of current and historic abiotic conditions driving macroscale patterns life at sea.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
-    "objectID": "2026/weeks/week01/page.html#tides-for-this-week",
-    "href": "2026/weeks/week01/page.html#tides-for-this-week",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
-    "section": "",
-    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
-    ]
-  },
-  {
-    "objectID": "2026/weeks/week01/page.html#lecture-slides",
-    "href": "2026/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "objectID": "2026/weeks/marine_biogeography/page.html#lecture-slides",
+    "href": "2026/weeks/marine_biogeography/page.html#lecture-slides",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nYou can find the powerpoint file of the slides here. Please review it for deadlines, etc.",
+    "text": "👨‍🏫 Lecture Slides\nYou can find the powerpoint file of the slides here.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
-    "objectID": "2026/weeks/week01/page.html#coursework",
-    "href": "2026/weeks/week01/page.html#coursework",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "objectID": "2026/weeks/marine_biogeography/page.html#coursework",
+    "href": "2026/weeks/marine_biogeography/page.html#coursework",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\nCheck out Chapter 1 of MCEC to learn about the history of marine ecology - not required, but gives a great intro!",
+    "text": "✍️ Coursework\nFor all readings, username is biol311 and password is marinebio!!\nPlease read Sanford 2013 for lecture this week.\nThere will be no paper discussion or assignment this week.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
-    "objectID": "2026/weeks/week01/page.html#additional-reading",
-    "href": "2026/weeks/week01/page.html#additional-reading",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
-    "section": "📚 Additional Reading",
-    "text": "📚 Additional Reading\n\n\nConnell, Joseph H. 1961. “The Influence of Interspecific Competition and Other Factors on the Distribution of the Barnacle Chthamalus Stellatus.” Ecology 42 (4): 710–23. https://doi.org/10.2307/1933500.\n\n\nDobbs, David. 2000. The Great Gulf: Fishermen, Scientists, and the Struggle to Revive the World’s Greatest Fishery. Island Press.\n\n\nField, Christopher B., Michael J. Behrenfeld, James T. Randerson, and Paul Falkowski. 1998. “Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components.” Science 281 (5374): 237–40. https://doi.org/10.1126/science.281.5374.237.\n\n\nLavery, Trish J., Ben Roudnew, Peter Gill, Justin Seymour, Laurent Seuront, Genevieve Johnson, James G. Mitchell, and Victor Smetacek. 2010. “Iron Defecation by Sperm Whales Stimulates Carbon Export in the Southern Ocean.” Proceedings of the Royal Society B: Biological Sciences 277 (1699): 3527–31. https://doi.org/10.1098/rspb.2010.0863.\n\n\nLebrato, Mario, Debora Iglesias-Rodr guez, Richard A. Feely, Dana Greeley, Daniel O. B. Jones, Nadia Suarez-Bosche, Richard S. Lampitt, Joan E. Cartes, Darryl R. H. Green, and Belinda Alker. 2010. “Global Contribution of Echinoderms to the Marine Carbon Cycle: CaCO3 Budget and Benthic Compartments.” Ecological Monographs 80 (3): 441–67. https://doi.org/10.1890/09-0553.1.\n\n\nPaine, Robert T. 1966. “Food Web Compexity and Species Diversity.” American Naturalist 100: 65–75. https://doi.org/10.1086/282400.",
+    "objectID": "2026/weeks/marine_biogeography/page.html#would-you-like-to-know-more",
+    "href": "2026/weeks/marine_biogeography/page.html#would-you-like-to-know-more",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
+    "section": "🧠🐛❓ Would you like to know more?",
+    "text": "🧠🐛❓ Would you like to know more?\nFor a good review of the early history of supply-side ecology, see Grosberg and Levitan (1992).\nFor more on global biogeography and its relationship to dispersal, see Álvarez-Noriega et al. (2020)\nTo understand the paleo-perspective on biogeography, see Jablonski and Sepkoski Jr. (1996), a classic.\nTo really get into the local adaptation side of marine invertebrates and how that relates to dispersal, see this excellent review by Sanford and Kelly (2011)\nTo learn more about currents in the Gulf of Maine and kelp dispersal biogeography, see Francolini et al. (2026)\nThe Cradle, Museum, Out of the Tropics model we discussed this week comes from Jablonski et al. 2006\nThe working group papser on the biogeography of extinction and risk comes from Finnegan et al. (2015) - the first time your prof was ever called a “Neoecologist”.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
-    "objectID": "2026/weeks/week01/page.html#communication",
-    "href": "2026/weeks/week01/page.html#communication",
-    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
+    "objectID": "2026/weeks/marine_biogeography/page.html#references",
+    "href": "2026/weeks/marine_biogeography/page.html#references",
+    "title": "🗓️ Week 03 - Introduction, Context & Key Concepts",
+    "section": "📚 References",
+    "text": "📚 References\n\n\nÁlvarez-Noriega, Mariana, Scott C. Burgess, James E. Byers, James M. Pringle, John P. Wares, and Dustin J. Marshall. 2020. “Global Biogeography of Marine Dispersal Potential.” Nature Ecology & Evolution 4 (9): 1196–1203. https://doi.org/10.1038/s41559-020-1238-y.\n\n\nFinnegan, S, S C Anderson, P G Harnik, C Simpson, D. P. Tittensor, J. E. Byrnes, Z V Finkel, et al. 2015. “Paleontological Baselines for Evaluating Extinction Risk in the Modern Oceans.” Science 348 (6234): 567–70. https://doi.org/10.1126/science.aaa6635.\n\n\nFrancolini, Rene D., Robin S. Sleith, Kristina M. Cammen, Damian C. Brady, and Douglas B. Rasher. 2026. “Sugar Kelp (Saccharina Latissima) Population Genetics Map onto Geographic Distance and Oceanographic Features Across Coastal Maine.” Journal of Phycology n/a (n/a): jpy.70219. https://doi.org/10.1111/jpy.70219.\n\n\nGrosberg, Richard K., and Don R. Levitan. 1992. “For Adults Only? Supply-side Ecology and the History of Larval Biology.” Trends in Ecology & Evolution 7 (4): 130–33. https://doi.org/10.1016/0169-5347(92)90148-5.\n\n\nJablonski, David, and J. John Sepkoski Jr. 1996. “Paleobiology, Community Ecology, and Scales of Ecological Pattern.” Ecology 77 (5): 1367–78. https://doi.org/10.2307/2265534.\n\n\nSanford, Eric, and Morgan W. Kelly. 2011. “Local Adaptation in Marine Invertebrates.” Annual Review of Marine Science 3 (Volume 3, 2011): 509–35. https://doi.org/10.1146/annurev-marine-120709-142756.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 1 - Intro: 9/7/2026"
+      "Week 3 - Marine Biogeography: 9/21/2026"
     ]
   },
   {
@@ -243,5 +268,220 @@
       "Week 2 - Life in the Sea: 9/14/2026",
       "🌊 Lab"
     ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html",
+    "href": "2026/weeks/week01/page.html",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "",
+    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#tides-for-this-week",
+    "href": "2026/weeks/week01/page.html#tides-for-this-week",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "",
+    "text": "In this first week, we will cover course goals, the structure and assignments from the course, the timing of labs, and then introduce a brief history of marine ecology.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#lecture-slides",
+    "href": "2026/weeks/week01/page.html#lecture-slides",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nYou can find the powerpoint file of the slides here. Please review it for deadlines, etc.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#coursework",
+    "href": "2026/weeks/week01/page.html#coursework",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\nCheck out Chapter 1 of MCEC to learn about the history of marine ecology - not required, but gives a great intro!",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#additional-reading",
+    "href": "2026/weeks/week01/page.html#additional-reading",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "📚 Additional Reading",
+    "text": "📚 Additional Reading\n\n\nConnell, Joseph H. 1961. “The Influence of Interspecific Competition and Other Factors on the Distribution of the Barnacle Chthamalus Stellatus.” Ecology 42 (4): 710–23. https://doi.org/10.2307/1933500.\n\n\nDobbs, David. 2000. The Great Gulf: Fishermen, Scientists, and the Struggle to Revive the World’s Greatest Fishery. Island Press.\n\n\nField, Christopher B., Michael J. Behrenfeld, James T. Randerson, and Paul Falkowski. 1998. “Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components.” Science 281 (5374): 237–40. https://doi.org/10.1126/science.281.5374.237.\n\n\nLavery, Trish J., Ben Roudnew, Peter Gill, Justin Seymour, Laurent Seuront, Genevieve Johnson, James G. Mitchell, and Victor Smetacek. 2010. “Iron Defecation by Sperm Whales Stimulates Carbon Export in the Southern Ocean.” Proceedings of the Royal Society B: Biological Sciences 277 (1699): 3527–31. https://doi.org/10.1098/rspb.2010.0863.\n\n\nLebrato, Mario, Debora Iglesias-Rodr guez, Richard A. Feely, Dana Greeley, Daniel O. B. Jones, Nadia Suarez-Bosche, Richard S. Lampitt, Joan E. Cartes, Darryl R. H. Green, and Belinda Alker. 2010. “Global Contribution of Echinoderms to the Marine Carbon Cycle: CaCO3 Budget and Benthic Compartments.” Ecological Monographs 80 (3): 441–67. https://doi.org/10.1890/09-0553.1.\n\n\nPaine, Robert T. 1966. “Food Web Compexity and Species Diversity.” American Naturalist 100: 65–75. https://doi.org/10.1086/282400.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/page.html#communication",
+    "href": "2026/weeks/week01/page.html#communication",
+    "title": "🗓️ Week 01 - Introduction & History of Marine Ecology",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 1 - Intro: 9/7/2026"
+    ]
+  },
+  {
+    "objectID": "2026/how_to_read.html",
+    "href": "2026/how_to_read.html",
+    "title": "How to Read a Scientific Paper",
+    "section": "",
+    "text": "Reading scientific papers for the first time is not a simple task. The language is stilted and strange. Jargon flies around casually. And once you get the gist of the paper, it’s difficult to hold on to where it fits in into the grand progression of ideas of science. Below are a few links to helpful resources on reading a paper.\n\n\nFirst, though, here’s a mashup of some techniques that I have found helpful in the past as I began to read the literature. It’s a sort of altered reading order, rather than reading straight through, but it can help quite a bit as you begin to get a handle on the literature.\n\n\n\nRead the abstract first. Really understand what the authors said they did and why it matters.\n\n\nRead the last (or last two) paragraphs of the introduction, where the authors tell you what they tested and how in a brief summary. Write down their major questions.\n\n\nThen read the methods. Sketch out each experiment, and above the sketch write the question the experiment was trying to answer or hypothesis it was testing.\n\n\nThen read the figures. On each one, write the main point and draw all over it to make it clearer to you. Skim the results and see if they have any additional information other than statistical tests.\n\n\nRead the discussion. Start with the first paragraph which should contain their main conclusions. Write down the answer to each of their major questions.\n\n\nAsk yourself if you agree with what they say about their experiments. You may, or you may find some holes you want to note.\n\n\nLast, read the introduction. All the way. Sit back and think about the big picture of why they did this work. Did the experiments, as you understood them, address or advance the field of knowledge they set out to advance?\n\n\n\nBut don’t just try the above. Check out these resources on reading papers and see what works best for you:\n\n\n \n\n\nHow to deconstruct a scientific paper – a WONDERFUL guide with an alternate reading technique to the above with a great infographic that I’ve put below\n\n\nHow to read and understand a scientific paper: a guide for non (or new!) -scientists\n\n\nScience Buddies: How to read a scientific paper\n\n\nA guide to note-taking while reading a scientific paper\n\n\nAmerican Society of Plant Biologists guide to reading a scientific paper\n\n\n \n\n\n \n\n\nOK - here’s the infographic of the alternate technique:",
+    "crumbs": [
+      "📝 Reading Papers"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Biology 311/312: Marine Biology and Ecology",
+    "section": "",
+    "text": "📑 Course Description\nFocus: This course explores the diversity of biological and ecological processes that shape life in the oceans. It places special emphasis on marine life in New England, focusing on the interactions between humans and the sea. This focus leads to a greater understanding of the consequences of ongoing environmental changes witnessed in the 20th and 21st centuries.\nHow: Lectures, Paper Discussion, and Fieldwork for labs!\n\n\n🎯 Learning Objectives\n\nUnderstand how biological systems are structured and function within the world’s oceans.\n\nLearn how to understand new scientific information and rapidly incorporate it into one’s knowledge of the goods and services produced by our oceans.\nGain an appreciation for how changes in the environment alter life in the sea and the concomitant indirect effects to human society.\nUnderstand the historic, current, and future links between humans in New England and the ocean around us.\n\n🌊 Additionally, for students in lab, we aim to have you:\n\nLearn how experimental and observational data can and cannot be used to answer biological questions.\nLearn how to conduct studies in coastal field environments.\nBe able to conduct a small independent research project.\nBe able to present results from a scientific study to colleagues.\n\n\nSelect Academic Year/Term:\n Fall 2026"
+  },
+  {
+    "objectID": "2026/index.html",
+    "href": "2026/index.html",
+    "title": "Biology 311/312: Marine Biology and Ecology",
+    "section": "",
+    "text": "Important📢 Important\n\n\n\n\n\n(9/09/2026)\n\nReadings and assignments for week 2 are up! (u/p biol311/marinebio!!)\n\n(9/07/2026)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse InstructorTeaching Assistant\n\n\n\nJarrett Byrnes  Associate Professor  UMass Boston 📧 jarrett.byrnes at umb dot edu\nOffice Hours:\n\nWhen: Tuesdays 10am-12pm or by appointment\nWhere: ISC 3130\nHow to book outside of standard hours: https://calendly.com/schedule_meeting_byrnes/30min\n\n\n\n\n\nStella Defibaugh  Masters Student at UMB  📧 EMAIL (stella.defibaugh001 at umb dot edu)\nOffice Hours:\n\nWhen: Wednesdays 10:30-12:30\nWhere: 3rd floor of ISC outside of grad student offices\n\n\n\n\n\n\n📍 Lecture\nMondays 1pm-2:15pm at University Hall Y01-1350\n\n\n🌊 Lab\nVaries - See individual weeks or, by default: Tuesdays 1pm-4p Wheatley-Peters W03-0066",
+    "crumbs": [
+      "🏠 Home"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#your-lecturer",
+    "href": "2026/weeks/week01/slides.html#your-lecturer",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Your lecturer",
+    "text": "Your lecturer\n\n\n\n\n\nProf. Octopian Professor of Octopus Issues Head of the Python vs R Debate Society\n\n\n\n\nPhD in Octopi Engineering\nBackground: Engineering of Deep Ocean constructions\nFormer Lead Data Scientist\n\ndeep ocean  engineering  octopus"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#teaching-assistants",
+    "href": "2026/weeks/week01/slides.html#teaching-assistants",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Teaching Assistants",
+    "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧"
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html",
+    "href": "2026/weeks/life_in_the_ocean/page.html",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "",
+    "text": "In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html#tides-for-this-week",
+    "href": "2026/weeks/life_in_the_ocean/page.html#tides-for-this-week",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "",
+    "text": "In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html#lecture-slides",
+    "href": "2026/weeks/life_in_the_ocean/page.html#lecture-slides",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "👨 🏫 Lecture Slides",
+    "text": "👨 🏫 Lecture Slides\nYou can find the powerpoint file of the slides here.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html#coursework",
+    "href": "2026/weeks/life_in_the_ocean/page.html#coursework",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\nFor all readings, username is biol311 and password is marinebio!!\nFor lecture, please read Nybakken and Webster as a gentle introduction to the diversity of life in the ocean.\nFor paper discussion, read Miller et al. (2018) and then fill out your weekly reading Q&A",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html#would-you-like-to-know-more",
+    "href": "2026/weeks/life_in_the_ocean/page.html#would-you-like-to-know-more",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "🧠🐛❓ Would you like to know more?",
+    "text": "🧠🐛❓ Would you like to know more?\nHow did things evolve to be this way? You can find some answers in Antell and Saupe (2021)\nIf you’re a fish person, see Betancur-R et al. (2017) on some of the latest about the ways we organize bony fishes.\nTo understand more about algae and their relationship to land plants, see Bhattacharya and Medlin (1998)\nIf you’re an invert nerd and are also trying to follow all of the controversies there, see this review from Dunn et al. (2014) .",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/life_in_the_ocean/page.html#references",
+    "href": "2026/weeks/life_in_the_ocean/page.html#references",
+    "title": "🗓️ Week 2 - Life in the Ocean",
+    "section": "📚 References",
+    "text": "📚 References\n\n\nAntell, Gawain T., and Erin E. Saupe. 2021. “Bottom-up Controls, Ecological Revolutions and Diversification in the Oceans Through Time.” Current Biology 31 (19): R1237–51. https://doi.org/10.1016/j.cub.2021.08.069.\n\n\nBetancur-R, Ricardo, Edward O. Wiley, Gloria Arratia, Arturo Acero, Nicolas Bailly, Masaki Miya, Guillaume Lecointre, and Guillermo Ortí. 2017. “Phylogenetic Classification of Bony Fishes.” BMC Evolutionary Biology 17 (1): 162. https://doi.org/10.1186/s12862-017-0958-3.\n\n\nBhattacharya, Debashish, and Linda Medlin. 1998. “Algal Phylogeny and the Origin of Land Plants.” Plant Physiology 116 (January). https://doi.org/10.1104/pp.116.1.9.\n\n\nDunn, Casey W., Gonzalo Giribet, Gregory D. Edgecombe, and Andreas Hejnol. 2014. “Animal Phylogeny and Its Evolutionary Implications.” Annual Review of Ecology, Evolution, and Systematics 45 (1): 371–95. https://doi.org/10.1146/annurev-ecolsys-120213-091627.\n\n\nMiller, Elizabeth Christina, Kenji T. Hayashi, Dongyuan Song, and John J. Wiens. 2018. “Explaining the Ocean’s Richest Biodiversity Hotspot and Global Patterns of Fish Diversity.” Proceedings of the Royal Society B: Biological Sciences 285 (1888): 20181314. https://doi.org/10.1098/rspb.2018.1314.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 2 - Life in the Sea: 9/14/2026"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html",
+    "href": "2026/labs/dock_lab/field_lab.html",
+    "title": "️ Life on the Docks",
+    "section": "",
+    "text": "All of the info below you can find in a handout for lab. Next week, we will meet in our assigned lab classroom to discuss data analysis and writeup. So just have fun this week! Nothing to writeup!"
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html#when-and-where",
+    "href": "2026/labs/dock_lab/field_lab.html#when-and-where",
+    "title": "️ Life on the Docks",
+    "section": "🗺️ When and Where",
+    "text": "🗺️ When and Where\nWe will meet for lab not in our assigned space, but out on the Fox Point docks. Please meet at the Pavillion at the space labeled below!"
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html#introduction",
+    "href": "2026/labs/dock_lab/field_lab.html#introduction",
+    "title": "️ Life on the Docks",
+    "section": "⚓️ Introduction",
+    "text": "⚓️ Introduction\nFloating docks represent a completely novel marine habitat. They are urban marine ecosystems at their most pure. They are full of invertebrate filter feeders – many non-native, algae, a wide variety of small arthropods (amphipods, isopods, etc.), and more. They are, however, a complex ecosystem. Docks are subjected to a number of environmental gradients – such as disturbance by boats, variation in light availability, differences in flow and more. The environmental conditions on a dock determine who can live there and how the community will ultimately function. Today we will explore this habitat and ask questions about what potential gradients in dock community composition we can observe. We will also generate hypotheses as to why and test them with structured sampling scheme."
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html#methods",
+    "href": "2026/labs/dock_lab/field_lab.html#methods",
+    "title": "️ Life on the Docks",
+    "section": "🧪 Methods",
+    "text": "🧪 Methods\n\nLean over the edge and look at what species exist on the sides of the docks. Come up with a classification system based on the lowest taxonomic level you can master of who lives where.\nSpend some time looking at the outer edge and back end of the dock. Look at the different sides of slips. See who lives on each side of a single walkway.\nWith your group, come up with a structured plan to sample the docks across some gradient in the environment. Discuss what information you need to record to characterize the differences of communities you observe on docks.\nRecord the taxonomic diversity of species and some measure of community composition."
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html#species",
+    "href": "2026/labs/dock_lab/field_lab.html#species",
+    "title": "️ Life on the Docks",
+    "section": "🦑 Species",
+    "text": "🦑 Species\nThere’s a lot there! For you use, I’ve created a species ID handout with the most common species you will see."
+  },
+  {
+    "objectID": "2026/labs/dock_lab/field_lab.html#taking-data",
+    "href": "2026/labs/dock_lab/field_lab.html#taking-data",
+    "title": "️ Life on the Docks",
+    "section": "📒 Taking Data",
+    "text": "📒 Taking Data\nDepending on your ‘design’ you should come up with a data recording system that looks something akin this (for sampling different plots in sunny and dark areas)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nSpecies\nPercent Cover\n\n\n\n\n\n\n\n\n\n\n1\nSunny\nBotryllus\n10\n\n\n\n\n\n\n\n\n1\nSunny\nMussels\n0\n\n\n\n\n\n\n\n\n1\nSunny\nAlgae\n80\n\n\n\n\n\n\n\n\n1\nSunny\nBare\n10\n\n\n\n\n\n\n\n\n2\nDark\nBotryllus\n40\n\n\n\n\n\n\n\n\n2\nDark\nMussels\n40\n\n\n\n\n\n\n\n\n\nFor Next week please provide an Excel or Google sheets entered version of this file by Tuesday at class time"
   }
 ]
