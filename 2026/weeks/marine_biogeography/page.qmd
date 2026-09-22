@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 03 - Introduction, Context & Key Concepts"
+title: "🗓️ Week 03 - Marine Biogeography and Oceanography"
 ---
 ## 🌊 🦀 Tides for this week
 ```{r}
