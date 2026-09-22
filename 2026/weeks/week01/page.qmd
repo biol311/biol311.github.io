@@ -28,7 +28,3 @@ Check out Chapter 1 of MCEC to learn about the [history of marine ecology](https
 
 ::: {#refs}
 :::
-
-## 📟 Communication
-
-- If you feel like it, introduce yourself in the `#introductions` channel on Slack

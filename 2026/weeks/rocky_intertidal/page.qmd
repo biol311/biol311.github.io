@@ -1,0 +1,41 @@
+---
+title: "🗓️ Week 04 - The Rocky Intertidal"
+---
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-09-28")
+```
+
+
+This week we will focus on the Rocky Intertidal habitat. The Rocky intertidal is truly the workhorse ecosystem of marine ecology - particularly experimental ecology. Why? Zonation! We will spend a good chunk of the week talking about how the rocky intertidal has helped us develop paradigms relating to the balance of 
+
+## 🌅 EARLY INTERTIDAL LAB!
+Please see the [lab](./lab.qmd) page for this week. We will have lab EARLY - on Monday at 6am meeting at the Bayside parking lot. See the [lab](./lab.qmd) page for more.
+
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/06_rocky_intertidal.pptx). 
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+Please read [Menge and Branch 2000](https://files.celp-lab.org/biol311/readings/rocky_intertidal/ch09%20Menge%20&%20Branch%202001%20Marine%20Community%20Ecology%20Rocky%20intertidal%20communities.pdf) for Monday.
+
+For paper discussion on Wednesday, read [...](...) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx).
+
+
+## 🧠🐛❓ Would you like to know more?
+
+
+
+## 📚  References
+
+::: {#refs}
+:::

@@ -9,7 +9,9 @@ project:
     - "2026/weeks/life_in_the_ocean/*.qmd"
     - "2026/weeks/marine_biogeography/*.qmd"
     - "2026/labs/dock_lab/*.qmd"
-
+    - "2026/weeks/rocky_intertidal/*.qmd"
+    - "2026/labs/rocky_intertidal_lab/*.qmd"
+    
 website:
   title: " Biology 311/312: Marine Biology and Ecology"
   page-navigation: true
@@ -67,6 +69,15 @@ website:
                text: 👨‍🏫 Lecture Material
              - href: 2026/labs/dock_lab/in_class_lab.qmd
                text: 🌊 Lab
+
+         - href: 2026/weeks/rocky_intertidal/page.qmd
+           text: "Week 4 - The Rocky Intertidal: 9/28/2026"
+           contents:
+             - href: 2026/weeks/rocky_intertidal/page.qmd
+               text: 👨‍🏫 Lecture Material
+             - href: 2026/labs/rocky_intertidal_lab/lab.qmd
+               text: 🌊 Lab
+
 
   navbar:
     background: primary
