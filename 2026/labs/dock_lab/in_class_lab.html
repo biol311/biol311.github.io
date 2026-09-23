@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-512f88c6389a8cce649bd67622b36966.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-390ca898e826dac90d045a2272aa3d71.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -266,9 +266,21 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#asking-questions-about-the-world" id="toc-asking-questions-about-the-world" class="nav-link" data-scroll-target="#asking-questions-about-the-world">⁉️ Asking Questions About the World</a></li>
   <li><a href="#systems-thinking-to-make-a-map-of-your-world" id="toc-systems-thinking-to-make-a-map-of-your-world" class="nav-link" data-scroll-target="#systems-thinking-to-make-a-map-of-your-world">🗺️ Systems Thinking to Make a Map of Your World</a></li>
   <li><a href="#study-design" id="toc-study-design" class="nav-link" data-scroll-target="#study-design">🧫 Study Design</a></li>
-  <li><a href="#lets-get-to-data-long-and-wide" id="toc-lets-get-to-data-long-and-wide" class="nav-link" data-scroll-target="#lets-get-to-data-long-and-wide">⚓️ Let’s get to data: Long and Wide</a></li>
-  <li><a href="#pivoting-your-data" id="toc-pivoting-your-data" class="nav-link" data-scroll-target="#pivoting-your-data">🔂 Pivoting your data</a></li>
-  <li><a href="#jamovi" id="toc-jamovi" class="nav-link" data-scroll-target="#jamovi">💻 Jamovi</a></li>
+  <li><a href="#telling-stories-with-data-jamovi" id="toc-telling-stories-with-data-jamovi" class="nav-link" data-scroll-target="#telling-stories-with-data-jamovi">💻 Telling Stories with Data: Jamovi</a></li>
+  <li><a href="#what-is-the-shape-of-data-long-and-wide" id="toc-what-is-the-shape-of-data-long-and-wide" class="nav-link" data-scroll-target="#what-is-the-shape-of-data-long-and-wide">⚓️ What is the shape of data: Long and Wide</a></li>
+  <li><a href="#preparing-to-pivot-your-data" id="toc-preparing-to-pivot-your-data" class="nav-link" data-scroll-target="#preparing-to-pivot-your-data">👷 Preparing to pivot your data</a></li>
+  <li><a href="#the-pivot" id="toc-the-pivot" class="nav-link" data-scroll-target="#the-pivot">🔂 The Pivot!</a>
+  <ul class="collapse">
+  <li><a href="#pivot-videos" id="toc-pivot-videos" class="nav-link" data-scroll-target="#pivot-videos">Pivot Videos</a></li>
+  </ul></li>
+  <li><a href="#variable-transformation" id="toc-variable-transformation" class="nav-link" data-scroll-target="#variable-transformation">𝌡 Variable Transformation</a></li>
+  <li><a href="#making-figures" id="toc-making-figures" class="nav-link" data-scroll-target="#making-figures">📊 Making Figures</a></li>
+  <li><a href="#a-little-light-data-analysis" id="toc-a-little-light-data-analysis" class="nav-link" data-scroll-target="#a-little-light-data-analysis">📈 A Little Light Data Analysis</a>
+  <ul class="collapse">
+  <li><a href="#what-is-the-relationship-between-two-variables" id="toc-what-is-the-relationship-between-two-variables" class="nav-link" data-scroll-target="#what-is-the-relationship-between-two-variables">1. What is the relationship between two variables?</a></li>
+  <li><a href="#comparing-groups" id="toc-comparing-groups" class="nav-link" data-scroll-target="#comparing-groups">2. Comparing groups</a></li>
+  <li><a href="#when-one-predictor-alters-the-effect-of-another" id="toc-when-one-predictor-alters-the-effect-of-another" class="nav-link" data-scroll-target="#when-one-predictor-alters-the-effect-of-another">3. When one predictor alters the effect of another</a></li>
+  </ul></li>
   <li><a href="#lab-report" id="toc-lab-report" class="nav-link" data-scroll-target="#lab-report">📓 Lab Report</a></li>
   </ul>
 </nav>
@@ -312,6 +324,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li><a href="https://shiny.gmw.rug.nl/ggplotgui/">ggplot gui</a> - does what it says on the tin, and also offers plotly extensions</li>
 </ul>
+<p>I would also like you to download <a href="./long_dock_data.xlsx">this example data set</a> for use in class today as well as the template for <a href="./dock_lab_writeup_template.docx">this week’s lab report</a>.</p>
 </section>
 <section id="preparation-for-lab-what-to-do-with-the-data-from-last-week" class="level2">
 <h2 class="anchored" data-anchor-id="preparation-for-lab-what-to-do-with-the-data-from-last-week">📊🦀 Preparation for Lab: What to do with the data from last week?</h2>
@@ -955,8 +968,14 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="lets-get-to-data-long-and-wide" class="level2">
-<h2 class="anchored" data-anchor-id="lets-get-to-data-long-and-wide">⚓️ Let’s get to data: Long and Wide</h2>
+<section id="telling-stories-with-data-jamovi" class="level2">
+<h2 class="anchored" data-anchor-id="telling-stories-with-data-jamovi">💻 Telling Stories with Data: Jamovi</h2>
+<p>OK - for the rest of lab, we’re going to work with data. We’ll discuss formats for data entry below. Honestly, I use Excel or Google Sheets to enter data. AND THAT IS IT. Edits, transforms, and more in your ORIGINAL data can lead to mistakes, errors, copy-paste problems, and losing track of what is the original data. So, once I have entered and quality-controlled my data, I usually save it with some tag like <code>_original</code> on it with the date it was finalized. I save that file and DO NOT TOUCH IT AGAIN. Then I save a working version that I will work with from that point forward.</p>
+<p>Do I do analysis and plotting in my spreadsheet software? No! I use something like R or Python. But, we’re not going to teach programming in this class, so we’re going to use an awesome piece of software built on top of R called <a href="https://www.jamovi.org/index.html">Jamovi</a>.</p>
+<p>Download it, and over the next few steps, we’ll use Jamovi (mostly) for data manipulation, plotting, and analysis.</p>
+</section>
+<section id="what-is-the-shape-of-data-long-and-wide" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-the-shape-of-data-long-and-wide">⚓️ What is the shape of data: Long and Wide</h2>
 <p>The data example data I gave you - and likely how you recorded data yourself - is in what we call a <strong>LONG</strong> format, where every observation has one row.</p>
 <table class="caption-top table">
 <colgroup>
@@ -1118,11 +1137,19 @@ ul.task-list li input[type="checkbox"] {
 </table>
 <p>Note how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just <em>Botryllus</em>? Or if the relationship between Mussels and Algae changed in light versus dark?</p>
 </section>
-<section id="pivoting-your-data" class="level2">
-<h2 class="anchored" data-anchor-id="pivoting-your-data">🔂 Pivoting your data</h2>
-<p>Spreadsheets. What are they good for? Well. One thing. Data entry. By embracing the spreadsheet mindset, and thinking about wide or long data, you will a) become really good at designing <a href="./Dock Datasheets.xlsx">field data collection sheets</a> and b) develop good data entry practices quite quickly. I encourage it!</p>
-<p>Now, what about the other things you can do in a spreadsheet? Honestly, I discourage use of their other functions unless you have a dire emergency. In my own work, I do all data analysis and figure making using programming. Why? To ensure that my entire workflow is repeatable and auditible. This is a cornerstone of good open and reproducible science.</p>
-<p>But - that’s a whole different course! So, we’re going to use spreadsheets for a few tools they can give us. The first, is going from wide to long, and for that, <a href="./pivoting_data.docx">let’s work through this handout</a> together using <a href="./long_dock_data.xlsx">this data</a>. I’m going to teach you how to use something called Pivot Tables to move back and forth from wide to long.</p>
+<section id="preparing-to-pivot-your-data" class="level2">
+<h2 class="anchored" data-anchor-id="preparing-to-pivot-your-data">👷 Preparing to pivot your data</h2>
+<p>So how do we move from wide to long? In Jamovi, there are two Modules that we can use to do this - <a href="https://jamovi.readthedocs.io/en/latest/transformations/tm_7_restructure_data/">jReshape</a> or jTransform. Both are excellent. To install one or both (and I’ll talk about jReshape from this point forward), click the giant + in the upper right-hand side of your Jamovi window. Go to Available, and just search up the name of either module. You should be able to click install and go from there.</p>
+<p>Now, open up <a href="./long_dock_data.xlsx">our example data set</a>. Notice, despite it being an excel file, it imports right in! Nice!</p>
+<p>Now, save it as a Jamovi file. Why do we do this? Well, Jamovi will keep track of everything you do - analyses, etc., so, it’s good to save it and keep a record.</p>
+<p>Last, delete those final two columns that don’t have any data in them. This will help clean up the data and make it easier to work with. Select both, then in the data menu, select delete.</p>
+</section>
+<section id="the-pivot" class="level2">
+<h2 class="anchored" data-anchor-id="the-pivot">🔂 The Pivot!</h2>
+<p>OK, it’s time! After installing jReshape, there should</p>
+<section id="pivot-videos" class="level3">
+<h3 class="anchored" data-anchor-id="pivot-videos">Pivot Videos</h3>
+<p>If you want to go through an example of how to pivot using jReshape, <a href="https://www.youtube.com/watch?v=G5V2gQZv3PE">see here</a>. There is also a longer written description <a href="https://jamovi.readthedocs.io/en/latest/transformations/tm_7_restructure_data/">in the docs</a> of Jamovi. Or, if you want to get saucier and use jTransform, <a href="https://www.youtube.com/watch?v=UtzdRiob2CU">see this video tutorial</a>.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1137,9 +1164,31 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="jamovi" class="level2">
-<h2 class="anchored" data-anchor-id="jamovi">💻 Jamovi</h2>
-<p>To analyze your data, you need software! We’re going to work with some point-and-click stats software called <a href="https://www.jamovi.org/index.html">Jamovi</a>. Let’s work through it together</p>
+</section>
+<section id="variable-transformation" class="level2">
+<h2 class="anchored" data-anchor-id="variable-transformation">𝌡 Variable Transformation</h2>
+<p>See <a href="https://jamovi.readthedocs.io/en/latest/transformations/tm_2_computed_variables/">here</a> and <a href="https://jamovi.readthedocs.io/en/latest/transformations/tm_3_transformed_variables/">here</a></p>
+</section>
+<section id="making-figures" class="level2">
+<h2 class="anchored" data-anchor-id="making-figures">📊 Making Figures</h2>
+<p>See <a href="https://www.youtube.com/watch?v=kSlzHnxdJes">here</a></p>
+</section>
+<section id="a-little-light-data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="a-little-light-data-analysis">📈 A Little Light Data Analysis</h2>
+<p>What kind of question are you asking? To begin with, let’s consider three of the most common types of questions in data analysis:</p>
+<section id="what-is-the-relationship-between-two-variables" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-the-relationship-between-two-variables">1. What is the relationship between two variables?</h3>
+<p>Please see <a href="https://www.youtube.com/watch?v=QpxFhkz9QIY">this video</a> for a super detailed walkthrough.</p>
+<p>You can generate a plot of the fit line with the Expected Means Dropdown.</p>
+</section>
+<section id="comparing-groups" class="level3">
+<h3 class="anchored" data-anchor-id="comparing-groups">2. Comparing groups</h3>
+<p>Please see <a href="https://www.youtube.com/watch?v=B6joXZGr2Ic">this video</a> for a much more detailed walkthrough.</p>
+<p>You can generate a plot of the estimated means and their confidence intervals with the Expected Means Dropdown.</p>
+</section>
+<section id="when-one-predictor-alters-the-effect-of-another" class="level3">
+<h3 class="anchored" data-anchor-id="when-one-predictor-alters-the-effect-of-another">3. When one predictor alters the effect of another</h3>
+<p>See <a href="https://www.youtube.com/watch?v=SVYhHDPup68">this video</a> for an example, all the way through generating a plot!</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1153,6 +1202,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Take one of your group’s questions and work together to answer it with a figure and brief analysis using Jamovi!</p>
 </div>
 </div>
+</section>
 </section>
 <section id="lab-report" class="level2">
 <h2 class="anchored" data-anchor-id="lab-report">📓 Lab Report</h2>

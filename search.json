@@ -477,7 +477,7 @@
     "href": "2026/labs/dock_lab/in_class_lab.html#preparation-for-lab-software",
     "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
     "section": "💻 Preparation for Lab: Software",
-    "text": "💻 Preparation for Lab: Software\nWe will be doing some basic data manipulation, graphing, and summary statistics. You will need Excel or something similar installed for data entry and some light manipulation, discussed below. Google Sheets will also work.\nFor analysis, I’d like you to download Jamovi. Jamovi is a nice lightweight open source tool that gives you point and click access to a wide variety of simple statistics (and some complex ones) as well as fairly decent plots of your data.\nDownload and install Jamovi on your computer\nIf you end up not liking Jamovi for your plots, there are a few great online options out there for generating nice plots. Here are a few I would recommend:\n\nesquisse - uses ggplot2\n\nggplot gui - does what it says on the tin, and also offers plotly extensions",
+    "text": "💻 Preparation for Lab: Software\nWe will be doing some basic data manipulation, graphing, and summary statistics. You will need Excel or something similar installed for data entry and some light manipulation, discussed below. Google Sheets will also work.\nFor analysis, I’d like you to download Jamovi. Jamovi is a nice lightweight open source tool that gives you point and click access to a wide variety of simple statistics (and some complex ones) as well as fairly decent plots of your data.\nDownload and install Jamovi on your computer\nIf you end up not liking Jamovi for your plots, there are a few great online options out there for generating nice plots. Here are a few I would recommend:\n\nesquisse - uses ggplot2\n\nggplot gui - does what it says on the tin, and also offers plotly extensions\n\nI would also like you to download this example data set for use in class today as well as the template for this week’s lab report.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 3 - Marine Biogeography: 9/21/2026",
@@ -533,11 +533,11 @@
     ]
   },
   {
-    "objectID": "2026/labs/dock_lab/in_class_lab.html#lets-get-to-data-long-and-wide",
-    "href": "2026/labs/dock_lab/in_class_lab.html#lets-get-to-data-long-and-wide",
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#telling-stories-with-data-jamovi",
+    "href": "2026/labs/dock_lab/in_class_lab.html#telling-stories-with-data-jamovi",
     "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
-    "section": "⚓️ Let’s get to data: Long and Wide",
-    "text": "⚓️ Let’s get to data: Long and Wide\nThe data example data I gave you - and likely how you recorded data yourself - is in what we call a LONG format, where every observation has one row.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nSpecies\nPercent Cover\n\n\n\n\n\n\n\n\n\n\n1\nSunny\nBotryllus\n10\n\n\n\n\n\n\n\n\n1\nSunny\nMussels\n0\n\n\n\n\n\n\n\n\n1\nSunny\nAlgae\n80\n\n\n\n\n\n\n\n\n1\nSunny\nBare\n10\n\n\n\n\n\n\n\n\n2\nDark\nBotryllus\n40\n\n\n\n\n\n\n\n\n2\nDark\nMussels\n40\n\n\n\n\n\n\n\n\n\nSo, plot 1 which is sunny has one row per observation of a species. This is a great format to work with in terms of efficiency - if we didn’t observe a species it won’t have a row! If we DO have a 0 for each species when we don’t observe it, this is a great format for doing things like comparing the cover of each individual species to one another in a boxplot or some such (more on that soon).\nThis format contrasts to a **WIDE* data set.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nBotryllus Cover\nMussels Cover\nAlgae Cover\n\nBare Cover\n\n\n\n\n\n\n\n1\nSunny\n10\n0\n80\n10\n\n\n\n\n\n\n2\nDark\n40\n40\n20\n0\n\n\n\n\n\n\n\nNote how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just Botryllus? Or if the relationship between Mussels and Algae changed in light versus dark?",
+    "section": "💻 Telling Stories with Data: Jamovi",
+    "text": "💻 Telling Stories with Data: Jamovi\nOK - for the rest of lab, we’re going to work with data. We’ll discuss formats for data entry below. Honestly, I use Excel or Google Sheets to enter data. AND THAT IS IT. Edits, transforms, and more in your ORIGINAL data can lead to mistakes, errors, copy-paste problems, and losing track of what is the original data. So, once I have entered and quality-controlled my data, I usually save it with some tag like _original on it with the date it was finalized. I save that file and DO NOT TOUCH IT AGAIN. Then I save a working version that I will work with from that point forward.\nDo I do analysis and plotting in my spreadsheet software? No! I use something like R or Python. But, we’re not going to teach programming in this class, so we’re going to use an awesome piece of software built on top of R called Jamovi.\nDownload it, and over the next few steps, we’ll use Jamovi (mostly) for data manipulation, plotting, and analysis.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 3 - Marine Biogeography: 9/21/2026",
@@ -545,11 +545,11 @@
     ]
   },
   {
-    "objectID": "2026/labs/dock_lab/in_class_lab.html#pivoting-your-data",
-    "href": "2026/labs/dock_lab/in_class_lab.html#pivoting-your-data",
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#what-is-the-shape-of-data-long-and-wide",
+    "href": "2026/labs/dock_lab/in_class_lab.html#what-is-the-shape-of-data-long-and-wide",
     "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
-    "section": "🔂 Pivoting your data",
-    "text": "🔂 Pivoting your data\nSpreadsheets. What are they good for? Well. One thing. Data entry. By embracing the spreadsheet mindset, and thinking about wide or long data, you will a) become really good at designing field data collection sheets and b) develop good data entry practices quite quickly. I encourage it!\nNow, what about the other things you can do in a spreadsheet? Honestly, I discourage use of their other functions unless you have a dire emergency. In my own work, I do all data analysis and figure making using programming. Why? To ensure that my entire workflow is repeatable and auditible. This is a cornerstone of good open and reproducible science.\nBut - that’s a whole different course! So, we’re going to use spreadsheets for a few tools they can give us. The first, is going from wide to long, and for that, let’s work through this handout together using this data. I’m going to teach you how to use something called Pivot Tables to move back and forth from wide to long.\n\n\n\n\n\n\nImportantPivot time!\n\n\n\nMake sure your data is in a nice long or wide format. Then, pivot your data from wide to long and back!",
+    "section": "⚓️ What is the shape of data: Long and Wide",
+    "text": "⚓️ What is the shape of data: Long and Wide\nThe data example data I gave you - and likely how you recorded data yourself - is in what we call a LONG format, where every observation has one row.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nSpecies\nPercent Cover\n\n\n\n\n\n\n\n\n\n\n1\nSunny\nBotryllus\n10\n\n\n\n\n\n\n\n\n1\nSunny\nMussels\n0\n\n\n\n\n\n\n\n\n1\nSunny\nAlgae\n80\n\n\n\n\n\n\n\n\n1\nSunny\nBare\n10\n\n\n\n\n\n\n\n\n2\nDark\nBotryllus\n40\n\n\n\n\n\n\n\n\n2\nDark\nMussels\n40\n\n\n\n\n\n\n\n\n\nSo, plot 1 which is sunny has one row per observation of a species. This is a great format to work with in terms of efficiency - if we didn’t observe a species it won’t have a row! If we DO have a 0 for each species when we don’t observe it, this is a great format for doing things like comparing the cover of each individual species to one another in a boxplot or some such (more on that soon).\nThis format contrasts to a **WIDE* data set.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlot\nCondition\nBotryllus Cover\nMussels Cover\nAlgae Cover\n\nBare Cover\n\n\n\n\n\n\n\n1\nSunny\n10\n0\n80\n10\n\n\n\n\n\n\n2\nDark\n40\n40\n20\n0\n\n\n\n\n\n\n\nNote how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just Botryllus? Or if the relationship between Mussels and Algae changed in light versus dark?",
     "crumbs": [
       "🗓️ Weeks",
       "Week 3 - Marine Biogeography: 9/21/2026",
@@ -557,11 +557,59 @@
     ]
   },
   {
-    "objectID": "2026/labs/dock_lab/in_class_lab.html#jamovi",
-    "href": "2026/labs/dock_lab/in_class_lab.html#jamovi",
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#preparing-to-pivot-your-data",
+    "href": "2026/labs/dock_lab/in_class_lab.html#preparing-to-pivot-your-data",
     "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
-    "section": "💻 Jamovi",
-    "text": "💻 Jamovi\nTo analyze your data, you need software! We’re going to work with some point-and-click stats software called Jamovi. Let’s work through it together\n\n\n\n\n\n\nImportantLet’s Look at Your Data!\n\n\n\nTake one of your group’s questions and work together to answer it with a figure and brief analysis using Jamovi!",
+    "section": "👷 Preparing to pivot your data",
+    "text": "👷 Preparing to pivot your data\nSo how do we move from wide to long? In Jamovi, there are two Modules that we can use to do this - jReshape or jTransform. Both are excellent. To install one or both (and I’ll talk about jReshape from this point forward), click the giant + in the upper right-hand side of your Jamovi window. Go to Available, and just search up the name of either module. You should be able to click install and go from there.\nNow, open up our example data set. Notice, despite it being an excel file, it imports right in! Nice!\nNow, save it as a Jamovi file. Why do we do this? Well, Jamovi will keep track of everything you do - analyses, etc., so, it’s good to save it and keep a record.\nLast, delete those final two columns that don’t have any data in them. This will help clean up the data and make it easier to work with. Select both, then in the data menu, select delete.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#the-pivot",
+    "href": "2026/labs/dock_lab/in_class_lab.html#the-pivot",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "🔂 The Pivot!",
+    "text": "🔂 The Pivot!\nOK, it’s time! After installing jReshape, there should\n\nPivot Videos\nIf you want to go through an example of how to pivot using jReshape, see here. There is also a longer written description in the docs of Jamovi. Or, if you want to get saucier and use jTransform, see this video tutorial.\n\n\n\n\n\n\nImportantPivot time!\n\n\n\nMake sure your data is in a nice long or wide format. Then, pivot your data from wide to long and back!",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#variable-transformation",
+    "href": "2026/labs/dock_lab/in_class_lab.html#variable-transformation",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "𝌡 Variable Transformation",
+    "text": "𝌡 Variable Transformation\nSee here and here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#making-figures",
+    "href": "2026/labs/dock_lab/in_class_lab.html#making-figures",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "📊 Making Figures",
+    "text": "📊 Making Figures\nSee here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 3 - Marine Biogeography: 9/21/2026",
+      "🌊 Lab"
+    ]
+  },
+  {
+    "objectID": "2026/labs/dock_lab/in_class_lab.html#a-little-light-data-analysis",
+    "href": "2026/labs/dock_lab/in_class_lab.html#a-little-light-data-analysis",
+    "title": "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks",
+    "section": "📈 A Little Light Data Analysis",
+    "text": "📈 A Little Light Data Analysis\nWhat kind of question are you asking? To begin with, let’s consider three of the most common types of questions in data analysis:\n\n1. What is the relationship between two variables?\nPlease see this video for a super detailed walkthrough.\nYou can generate a plot of the fit line with the Expected Means Dropdown.\n\n\n2. Comparing groups\nPlease see this video for a much more detailed walkthrough.\nYou can generate a plot of the estimated means and their confidence intervals with the Expected Means Dropdown.\n\n\n3. When one predictor alters the effect of another\nSee this video for an example, all the way through generating a plot!\n\n\n\n\n\n\nImportantLet’s Look at Your Data!\n\n\n\nTake one of your group’s questions and work together to answer it with a figure and brief analysis using Jamovi!",
     "crumbs": [
       "🗓️ Weeks",
       "Week 3 - Marine Biogeography: 9/21/2026",
