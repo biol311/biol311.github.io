@@ -22,6 +22,8 @@ If you end up not liking Jamovi for your plots, there are a few great online opt
 - [esquisse](https://dreamrs.shinyapps.io/esquisse/) - uses ggplot2  
 - [ggplot gui](https://shiny.gmw.rug.nl/ggplotgui/) - does what it says on the tin, and also offers plotly extensions
 
+I would also like you to download [this example data set](./long_dock_data.xlsx) for use in class today as well as the template for [this week's lab report](./dock_lab_writeup_template.docx).
+
 ## 📊🦀 Preparation for Lab: What to do with the data from last week?
 
 Last week I had you put together a data table of some sort. Something that looked like the following.
@@ -205,7 +207,15 @@ OK, now that we have some predictor variables, some things we're going to contro
 While I pushed you to embrace some of the principles above, look at the diagram you made last week of your sampling design. Was it adequate? If you were to re-do the study, what would your sampling design look like. Work with your group to diagram out a new design.
 :::
 
-## ⚓️ Let's get to data: Long and Wide
+## 💻 Telling Stories with Data: Jamovi
+
+OK - for the rest of lab, we're going to work with data. We'll discuss formats for data entry below. Honestly, I use Excel or Google Sheets to enter data. AND THAT IS IT. Edits, transforms, and more in your ORIGINAL data can lead to mistakes, errors, copy-paste problems, and losing track of what is the original data. So, once I have entered and quality-controlled my data, I usually save it with some tag like `_original` on it with the date it was finalized. I save that file and DO NOT TOUCH IT AGAIN. Then I save a working version that I will work with from that point forward.
+
+Do I do analysis and plotting in my spreadsheet software? No! I use something like R or Python. But, we're not going to teach programming in this class, so we're going to use an awesome piece of software built on top of R called [Jamovi](https://www.jamovi.org/index.html). 
+
+Download it, and over the next few steps, we'll use Jamovi (mostly) for data manipulation, plotting, and analysis.
+
+## ⚓️ What is the shape of data: Long and Wide
 
 The data example data I gave you - and likely how you recorded data yourself -  is in what we call a **LONG** format, where every observation has one row.
 
@@ -230,13 +240,24 @@ This format contrasts to a **WIDE* data set.
 
 Note how every individual replicate has one row, where each measurement is a column. This format is essential for looking at relationships between variables - or just exploring a single measurement. For example, what if we wanted to look at the effect of sun versus dark on just *Botryllus*? Or if the relationship between Mussels and Algae changed in light versus dark?
 
-## 🔂 Pivoting your data
+## 👷 Preparing to pivot your data
 
-Spreadsheets. What are they good for? Well. One thing. Data entry. By embracing the spreadsheet mindset, and thinking about wide or long data, you will a) become really good at designing [field data collection sheets](./Dock Datasheets.xlsx) and b) develop good data entry practices quite quickly. I encourage it!
+So how do we move from wide to long? In Jamovi, there are two Modules that we can use to do this - [jReshape](https://jamovi.readthedocs.io/en/latest/transformations/tm_7_restructure_data/) or jTransform. Both are excellent. To install one or both (and I'll talk about jReshape from this point forward), click the giant + in the upper right-hand side of your Jamovi window. Go to Available, and just search up the name of either module. You should be able to click install and go from there.
 
-Now, what about the other things you can do in a spreadsheet? Honestly, I discourage use of their other functions unless you have a dire emergency. In my own work, I do all data analysis and figure making using programming. Why? To ensure that my entire workflow is repeatable and auditible. This is a cornerstone of good open and reproducible science.
+Now, open up [our example data set](./long_dock_data.xlsx). Notice, despite it being an excel file, it imports right in! Nice!
 
-But - that's a whole different course! So, we're going to use spreadsheets for a few tools they can give us. The first, is going from wide to long, and for that, [let's work through this handout](./pivoting_data.docx) together using [this data](./long_dock_data.xlsx). I'm going to teach you how to use something called Pivot Tables to move back and forth from wide to long.
+Now, save it as a Jamovi file. Why do we do this? Well, Jamovi will keep track of everything you do - analyses, etc., so, it's good to save it and keep a record.
+
+Last, delete those final two columns that don't have any data in them. This will help clean up the data and make it easier to work with. Select both, then in the data menu, select delete.
+
+## 🔂 The Pivot!
+
+OK, it's time! After installing jReshape, there should 
+
+### Pivot Videos
+
+If you want to go through an example of how to pivot using jReshape, [see here](https://www.youtube.com/watch?v=G5V2gQZv3PE). There is also a longer written description [in the docs](https://jamovi.readthedocs.io/en/latest/transformations/tm_7_restructure_data/) of Jamovi. Or, if you want to get saucier and use jTransform, [see this video tutorial](https://www.youtube.com/watch?v=UtzdRiob2CU).
+
 
 ::: {.callout-important}
 ## Pivot time!
@@ -244,10 +265,35 @@ But - that's a whole different course! So, we're going to use spreadsheets for a
 Make sure your data is in a nice long or wide format. Then, pivot your data from wide to long and back!
 :::
 
-## 💻 Jamovi
+## 𝌡 Variable Transformation
 
-To analyze your data, you need software! We're going to work with some point-and-click stats software called [Jamovi](https://www.jamovi.org/index.html). Let's work through it together
+See [here](https://jamovi.readthedocs.io/en/latest/transformations/tm_2_computed_variables/) and [here](https://jamovi.readthedocs.io/en/latest/transformations/tm_3_transformed_variables/)
 
+
+## 📊 Making Figures
+
+See [here](https://www.youtube.com/watch?v=kSlzHnxdJes)
+
+## 📈 A Little Light Data Analysis
+
+What kind of question are you asking? To begin with, let's consider three of the most common types of questions in data analysis:
+
+### 1. What is the relationship between two variables?
+
+Please see [this video](https://www.youtube.com/watch?v=QpxFhkz9QIY) for a super detailed walkthrough.
+
+You can generate a plot of the fit line with the Expected Means Dropdown.
+
+### 2. Comparing groups
+
+Please see [this video](https://www.youtube.com/watch?v=B6joXZGr2Ic) for a much more detailed walkthrough.
+
+
+You can generate a plot of the estimated means and their confidence intervals with the Expected Means Dropdown.
+
+### 3. When one predictor alters the effect of another
+
+See [this video](https://www.youtube.com/watch?v=SVYhHDPup68) for an example, all the way through generating a plot!
 
 ::: {.callout-important}
 ## Let's Look at Your Data!
