@@ -28,7 +28,7 @@ For all readings, username is biol311 and password is marinebio!!
 
 Please read [Menge and Branch 2000](https://files.celp-lab.org/biol311/readings/rocky_intertidal/ch09%20Menge%20&%20Branch%202001%20Marine%20Community%20Ecology%20Rocky%20intertidal%20communities.pdf) for Monday.
 
-For paper discussion on Wednesday, read [...](...) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx).
+For paper discussion on Wednesday, read [@leonardLATITUDINALVARIATIONSPECIES2000](https://files.celp-lab.org/biol311/readings/rocky_intertidal/leonard_2000_ecology.pdf) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx).
 
 
 ## 🧠🐛❓ Would you like to know more?
