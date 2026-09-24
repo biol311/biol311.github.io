@@ -1,0 +1,48 @@
+---
+title: "🗓️ Week 05 - Kelp Forests and the Rocky Temperate Subtidal"
+---
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-10-05")
+```
+
+In this week, we will focus on kelp forests as a model system for understanding marine ecology. We will look at the role of trophic control versus environmental control (top-down versus bottom-up) in this key marine ecosystem. We will discuss the role of foundation species as opposed to keystone species. We will also examine the importance of kelp forests to the ecology and ecosystem services of New England. 
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the powerpoint file of the slides [here](). 
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+Please read [Steneck and Johnson 2013](https://files.celp-lab.org/biol311/readings/kelp_forests/MCEC_14_kelp.pdf) for Monday for this week.
+
+I would also like you to choose one of the seminars from [this list](https://www.youtube.com/playlist?list=PLBHNrFSToidI) - you only need to watch the seminar, not the Q&A afterwards. Although they are also pretty interesting! Come to class with your one take-home message from the seminar, and I'll ask you about it in class.
+
+For paper discussion, read [@TurfAlgaeRedefine](https://files.celp-lab.org/biol311/readings/kelp_forests/Farrell_et_al_2025_science.pdf) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx).
+
+
+## 🧠🐛❓ Would you like to know more?
+
+For the classic reference on otters and kelp, see [@estesSeaOttersTheir1974](https://files.celp-lab.org/biol311/readings/kelp_forests/Estes%20and%20Palmisano%201974%20Science.pdf). If you want a deeper dive, listen to Jim Estes himself talk about his story in part 1 of [kelp worlds](https://www.futureecologies.net/kelpworlds) from one of my favorite podcasts, [Future Ecologies](https://www.futureecologies.net/#home-section) - it's actually worth listening to all three parts of [kelp worlds](https://www.futureecologies.net/kelpworlds).
+
+For more on variation in the otter-urchin-kelp paradigm, see [](https://files.celp-lab.org/biol311/readings/kelp_forests/Estes%20&%20Duggins%201995.pdf). 
+
+For the paper that really shaped the paradigm of the cycles between barrens and urchins along with their relationship to food scarcity and waves, see [@harroldFoodAvailabilitySea1985](https://files.celp-lab.org/biol311/readings/kelp_forests/Harrold%20and%20Reed%201985%20Ecology.pdf)
+
+For the only global data-driven analysis of kelp forest trends through time, see [@krumhanslGlobalPatternsKelp2016](https://files.celp-lab.org/biol311/readings/kelp_forests/Krumhansl_et_al_2016_global_patterns_kelp_change_pnas.201606102.pdf).
+
+For a great review of the kelp-turf ongoing transformation, see [@filbee-dexterRiseTurfsNew2018](https://files.celp-lab.org/biol311/readings/kelp_forests/Filbee-Dexter_and_Wernberg_2019.pdf)
+
+
+## 📚  References
+
+::: {#refs}
+:::

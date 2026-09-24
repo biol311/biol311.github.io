@@ -11,7 +11,8 @@ project:
     - "2026/labs/dock_lab/*.qmd"
     - "2026/weeks/rocky_intertidal/*.qmd"
     - "2026/labs/rocky_intertidal_lab/*.qmd"
-    
+    - "2026/weeks/kelp_forests/*.qmd"
+
 website:
   title: " Biology 311/312: Marine Biology and Ecology"
   page-navigation: true
@@ -78,6 +79,13 @@ website:
              - href: 2026/labs/rocky_intertidal_lab/lab.qmd
                text: 🌊 Lab
 
+         - href: 2026/weeks/kelp_forests/page.qmd
+           text: "Week 5 - Kelp Forests: 10/5/2026"
+           contents:
+             - href: 2026/weeks/kelp_forests/page.qmd
+               text: 👨‍🏫 Lecture Material
+            # - href: 2026/labs/rocky_intertidal_lab/lab.qmd
+            #   text: 🌊 Lab
 
   navbar:
     background: primary
