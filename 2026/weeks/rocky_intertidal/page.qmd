@@ -15,7 +15,7 @@ make_tideplot("2026-09-28")
 This week we will focus on the Rocky Intertidal habitat. The Rocky intertidal is truly the workhorse ecosystem of marine ecology - particularly experimental ecology. Why? Zonation! We will spend a good chunk of the week talking about how the rocky intertidal has helped us develop paradigms relating to the balance of 
 
 ## 🌅 EARLY INTERTIDAL LAB!
-Please see the [lab](./lab.qmd) page for this week. We will have lab EARLY - on Monday at 6am meeting at the Bayside parking lot. See the [lab](./lab.qmd) page for more.
+Please see the [lab](/2026/labs/rocky_intertidal_lab/lab.html) page for this week. We will have lab EARLY - on Monday at 6am meeting at the Bayside parking lot. See the [lab](/2026/labs/rocky_intertidal_lab/lab.html) page for more.
 
 
 ## 👨‍🏫 Lecture Slides 

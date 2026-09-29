@@ -2,9 +2,11 @@
 title: "️Asking Questions, Designing Studies, and Making Inferences about Life on the Docks"
 ---
 
-Last week, we went right out to the field and began to explore. I tasked you with coming up with a question based on observations, and then executing a samplign design. This week, we're going to dig a bit more into what it means to answer a question in nature, and how to analyze data once you've gotten it.
+Last week, we went right out to the field and began to explore. I tasked you with coming up with a question based on observations, and then executing a sampling design. This week, we're going to dig a bit more into what it means to answer a question in nature, and how to analyze data once you've gotten it.
 
-By the end of this lab, you'll be ready to write your [first lab report](./dock_lab_writeup_template.docx)
+By the end of this lab, you'll be ready to write your [first lab report](./dock_lab_writeup_template.docx).
+
+**Turn in your lab [here](https://umassboston.instructure.com/courses/47459/assignments/406077)**
 
 ## 🗺️ When and Where
 We will meet for lab in our assigned space for the week. This will be a more computational lab, so make sure to bring your laptop or other device.
