@@ -12,6 +12,7 @@ project:
     - "2026/weeks/rocky_intertidal/*.qmd"
     - "2026/labs/rocky_intertidal_lab/*.qmd"
     - "2026/weeks/kelp_forests/*.qmd"
+    - "2026/midterm/*.qmd"
 
 website:
   title: " Biology 311/312: Marine Biology and Ecology"
@@ -36,6 +37,8 @@ website:
         text: "📓 Lab Syllabus"
       - href: 2026/how_to_read.qmd
         text: "📝 Reading Papers"
+      - href: 2026/midterm/page.qmd
+        text: "📝 Midterm"
       # - href: 2026/communication.qmd
       #   text: "📟 Communication"
       # - href: 2026/assignments.qmd

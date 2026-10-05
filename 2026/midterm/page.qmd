@@ -1,0 +1,92 @@
+---
+title: "Midterm: I cam here for an argument!"
+#nocite: |
+---
+
+Science is not always clear-cut. Different labs might run the same experiment in different places and produce different results. Different systems might have different key players, and thus yield different inferences about the relative or absolute importance of different ecological forces. Sometimes, scientists are able to synthesize across these results to arrive at a larger truth. But other times, the results are so disparate that they seem to have no resolution between them, creating debate in the literature. This is fertile ground for better science, and it serves as a wonderful arena to peel back the cover on how nature works.
+
+## Due Dates
+Groups decided: Friday October 9th  
+Annotated Bibliography: Monday October 26th  
+Debate Week!!!: Week of November 2nd
+
+## 👨 🏫 Topics
+
+For the midterm, we will have a debate on four topics.  They are as follows:
+1)	Do top-down forces of predation or bottom-up limitation by nutrients govern kelp forests?
+2)	Is coral bleaching adaptive or merely a sign of imminent coral death? 
+3)	What causes New England marsh die-off?
+4)	Will ocean acidification matter in temperate marine environments?
+
+## ✍️ The Debate
+Here’s a detailed table of those parts and what is expected in each from a website on debate structure:
+
+| Speech                       | Time  | Responsibilities of the Debaters                                                                                      |
+| ---------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------- |
+| 1st Affirmative Constructive | 5 min | Introduce the motion and their viewpoint                                                                              |
+|                              |       | Give their definitions of key terms                                                                                   |
+|                              |       | Present their arguments to support the motion                                                                         |
+| 1st Negative Constructive    | 5 min | State their arguments to oppose the motion                                                                            |
+| 2nd Affirmative Constructive | 5 min | Layout further arguments in support of the motion and the team's opinions                                             |
+|                              |       | Identify conflict areas                                                                                               |
+|                              |       | Answer questions from the negative speaker (if any)                                                                   |
+| 2nd Negative Constructive    | 5 min | Lay out further arguments in support of the motion and the team's opinions                                            |
+|                              |       | Identify conflict areas                                                                                               |
+|                              |       | Answer questions from the negative speaker (if any)                                                                   |
+| 1st Negative Rebuttal        | 2 min | Lay out further arguments against the motion and enhance the team's opinions                                          |
+|                              |       | Identify conflict areas                                                                                               |
+|                              |       | Answer questions from the affirmative speaker (if any)                                                                |
+| 1st Affirmative Rebuttal     | 2 min | Defend the Affirmative team's arguments and defeat the opposing arguments without adding new arguments or information |
+| 2nd Negative Rebuttal        | 4 min | Have a second rebuttal and closing statements                                                                         |
+| (Closing Statement)          |       |                                                                                                                       |
+| 2nd Affirmative Rebuttal     | 4 min | Have a second rebuttal and closing statements                                                                         |
+| (Closing Statement)          |       |                                                                                                                       |
+
+## Annotated Bibliography
+
+Each team is expected to turn in an annotated bibliography of the ten papers they use. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. This is due one week before the debate TO YOUR OPPOSING TEAM. This is in order to facilitate a better dialogue and discussino during the debate itself.
+
+
+## Grading
+Students will be graded as a team on the quality of their argument, logic, ability to cite literature in their arguments, and whether they are convincing.
+ 
+10 points – was your argument coherent and clear?
+10 points – was your rebuttal adequate and logically consistent?
+10 points – did you cite relevant literature in your arguments and rebuttals?
+10 points – was your annotated bibliography thorough and demonstrated how these paper connected to your debate arguments?
+5 points – did your summation bring together your argument into a cogent conclusion?
+5 points – staying on time in the debate!
+2 points extra credit – did the class vote for you to win?
+
+## Initial Readings
+For each topic, I’m giving each side one paper to start their reading. I urge you to not only read and understand these but look them up in google scholar – see who has cited them, who have they cited, and look around for terms that are related to the arguments.
+ 
+1)	Do top-down forces of predation or bottom-up limitation by nutrients govern kelp forests? (Note – this is an old argument, but has been carried on in the literature for decades)
+     a. 	Estes, J. E., N. S. Smith, and J. F. Palmisano. 1978. Sea otter predation and community organization in the western Aleutial islands, Alaska. Ecology 59:822–833.
+
+     b. 	Foster, M. S. 1990. Organization of macroalgal assemblages in the Northeast Pacific: the assumption of homogeneity and the illusion of generality. Hydrobiologia 192:21–33.
+
+2)	Is coral bleaching adaptive or merely a sign of imminent coral death?
+
+     a. 	Buddemeier, R. W., and D. G. Fautin. 1993. Coral bleaching as an adaptive mechanism. Bioscience 43:320–326.
+
+     b. 	Gates, R. D., G. Baghdasarian, and L. Muscatine. 1992. Temperature stress causes host cell detachment in symbiotic cnidarians: implications for coral bleaching. Biological Bulletin 182:324–332.
+
+3)	What causes New England marsh die-off?
+     a. 	Altieri, A.H., Bertness, M.D., Coverdale, T.C., Herrmann, N.C., Angelini, C., 2012. A trophic cascade triggers collapse of a salt-marsh ecosystem with intensive recreational fishing. Ecology 93, 1402–1410.
+     
+     b. 	Deegan, L.A., Johnson, D.S., Warren, R.S., Peterson, B.J., Fleeger, J.W., Fagherazzi, S., Wollheim, W.M., 2012. Coastal eutrophication as a driver of salt marsh loss. Nature 490, 388–392. doi:10.1038/nature11533
+     
+4)	Will ocean acidification matter in temperate marine environments?
+
+     a. 	Hettinger, A., E. Sanford, T. M. Hill, A. D. Russell, K. N. S. Sato, J. Hoey, M. Forsch, H. N. Page, and B. Gaylord. 2012. Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology 93:2758–2768.
+
+     b. 	Sunday, J. M., R. N. Crim, C. D. G. Harley, and M. W. Hart. 2011. Quantifying Rates of Evolutionary Adaptation in Response to Ocean Acidification. PloS one 6:e22881.
+ 
+<!--
+
+## 📚  References
+
+::: {#refs}
+:::
+-->
