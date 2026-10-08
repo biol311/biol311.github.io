@@ -12,6 +12,7 @@ project:
     - "2026/weeks/rocky_intertidal/*.qmd"
     - "2026/labs/rocky_intertidal_lab/*.qmd"
     - "2026/weeks/kelp_forests/*.qmd"
+    - "2026/weeks/historical_ecology/*.qmd"
     - "2026/midterm/*.qmd"
 
 website:
@@ -89,7 +90,14 @@ website:
                text: 👨‍🏫 Lecture Material
             # - href: 2026/labs/rocky_intertidal_lab/lab.qmd
             #   text: 🌊 Lab
-
+            
+         - href: 2026/weeks/historical_ecology/page.qmd
+           text: "Week 6 - Historical Ecology: 10/12/2026"
+           contents:
+             - href: 2026/weeks/historical_ecology/page.qmd
+               text: 👨‍🏫 Lecture Material
+            # - href: 2026/labs/rocky_intertidal_lab/lab.qmd
+            #   text: 🌊 Lab
   navbar:
     background: primary
   page-footer:

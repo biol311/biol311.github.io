@@ -1,0 +1,41 @@
+---
+title: "🗓️ Week 06 - Historical Ecology"
+---
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-10-12")
+```
+
+**Note: No Class on Monday for Indigenous People's Day**
+
+In this week, we will learn to think in terms of historical and deep time in order to understand present-day ocean ecosystems. How have ecosystems changed over the entirety of human history? What can we learn from historical records that teach us about how ecosystems function - perhaps even with less human impacts than we see today.
+
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the powerpoint file of the slides [here](https://files.celp-lab.org/biol311/lectures/05_histoical_ecology.pptx). 
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+Please read [Lotze and McLenechan 2013
+](https://files.celp-lab.org/biol311/readings/historical/MCEC_08_historical_ecology.pdf) for this week.
+
+## 🧠🐛❓ Would you like to know more?
+
+The OG reference that made a lot of us sit up and realize we neede to think about historical context, see [@steneckHumanAlterationsMarine](https://files.celp-lab.org/biol311/readings/historical/ch17%20Steneck%20&%20Carlton%202001%20Marine%20Community%20Ecology%20Human%20alterations%20of%20marine%20communities%20-%20students%20beware!.pdf) - *Human alteration of marine communities: Students Beware!*
+
+For more on perception versus reality with respect to whales and cod as a great example of shifting baselines, see [@mcclenachanForgottenWhalesFading2023](https://files.celp-lab.org/biol311/readings/historical/People%20and%20Nature%20-%202023%20-%20McClenachan%20-%20Forgotten%20whales%20%20fading%20codfish%20%20Perceptions%20of%20%20natural%20%20ecosystems%20inform.pdf)
+
+To see how ecology, interviews, and historical records can be integrated on one place, see one of my favorite papers ever [@salomonSerialDepletionMarine2007](https://files.celp-lab.org/biol311/readings/historical/Salomon%20et%20al.%20-%202007%20-%20Serial%20depletion%20of%20marine%20invertebrates%20leads%20to%20the%20decline%20of%20a%20strongly%20interacting%20grazer.pdf).
+
+For the classic reference in shifting baselines in kelp forests systems, see [@daytonSlidingBaselinesGhosts1998](https://files.celp-lab.org/biol311/readings/historical/dayton_et_al_1998.pdf).
+
+Let's bring a deeper time perspective to thinking about ecosystem collapse with [@jacksonHistoricalOverfishingRecent2001](https://files.celp-lab.org/biol311/readings/historical/jackson_et_al_2001.pdf) and follow it up with [@lotzeDepletionDegradationRecovery2006](https://files.celp-lab.org/biol311/readings/historical/lotze_et_al_2006.pdf).
