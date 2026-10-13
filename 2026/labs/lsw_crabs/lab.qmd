@@ -2,6 +2,23 @@
 title: "️Lab: Use of Living Seawall Panels by Crabs"
 ---
 
+<!-- notes Consider writing times on paper first then transfer to sheet
+
+Column for tracking the same crab?
+
+Add east
+
+tally unique crabs alongside behaviors
+
+note total time
+
+note that if they do the same behavior separate times, note each one - i.e. moving from shelter to shelter
+
+If a crab is invisible sheltering, just record the first behavior you see
+
+record interaction end times?
+
+-->
 
 ## ⚓️ Introduction
 
@@ -43,7 +60,7 @@ Videos can be found [here](https://www.dropbox.com/scl/fo/1gqqiuqsgd9a15ldnit2n/
 
 * **Predation**: Attacking and consuming bait we placed (squidpops) 
 
-* **Interaction(Fish)**:	Crab and another crab *of the same species* touching, fighting, displacing, chasing, competing over bait/ shelter.  
+* **Interaction**:	Crab and another crab *of the same species* touching, fighting, displacing, chasing, competing over bait/ shelter.  
 
 * **Interaction(Fish)**:	Crab and fish touching, fighting, displacing, chasing, competing over bait/ shelter.  
 
