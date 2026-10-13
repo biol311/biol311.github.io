@@ -43,9 +43,11 @@ Videos can be found [here](https://www.dropbox.com/scl/fo/1gqqiuqsgd9a15ldnit2n/
 
 * **Predation**: Attacking and consuming bait we placed (squidpops) 
 
+* **Interaction(Fish)**:	Crab and another crab *of the same species* touching, fighting, displacing, chasing, competing over bait/ shelter.  
+
 * **Interaction(Fish)**:	Crab and fish touching, fighting, displacing, chasing, competing over bait/ shelter.  
 
-* **Interaction(HESA/CAMA)**:	Interaction between HESA and CAMA, fighting, displacing, chasing, competing over bait/ shelter.
+* **Interaction(HESA/CAMA)**:	Interaction between crab and a *different species of crab*, fighting, displacing, chasing, competing over bait/ shelter.
 
 6. Be careful and do not count crabs twice even if they stay in an area for a prolonged period of time. 
 
