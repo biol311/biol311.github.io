@@ -98,8 +98,10 @@ website:
            contents:
              - href: 2026/weeks/historical_ecology/page.qmd
                text: 👨‍🏫 Lecture Material
-             - href: 2026/labs/lsw_crabs/lab.qmd
-               text: 🌊 Lab
+               
+         - href: 2026/labs/lsw_crabs/lab.qmd
+           text: "Living Seawall Crab Lab"               
+               
   navbar:
     background: primary
   page-footer:
