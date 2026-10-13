@@ -15,6 +15,7 @@ project:
     - "2026/weeks/historical_ecology/*.qmd"
     - "2026/midterm/*.qmd"
     - "2026/labs/lsw_crabs/*.qmd"
+    - "2026/weeks/coral_reefs/*.qmd"
 
 
 website:
@@ -101,6 +102,13 @@ website:
                
          - href: 2026/labs/lsw_crabs/lab.qmd
            text: "Living Seawall Crab Lab"               
+  
+         - href: 2026/weeks/coral_reefs/page.qmd
+           text: "Week 7 - Coral Reefs: 10/19/2026"
+           contents:
+             - href: 2026/weeks/coral_reefs/page.qmd
+               text: 👨‍🏫 Lecture Material
+
                
   navbar:
     background: primary

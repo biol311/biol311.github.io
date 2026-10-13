@@ -39,3 +39,9 @@ To see how ecology, interviews, and historical records can be integrated on one 
 For the classic reference in shifting baselines in kelp forests systems, see [@daytonSlidingBaselinesGhosts1998](https://files.celp-lab.org/biol311/readings/historical/dayton_et_al_1998.pdf).
 
 Let's bring a deeper time perspective to thinking about ecosystem collapse with [@jacksonHistoricalOverfishingRecent2001](https://files.celp-lab.org/biol311/readings/historical/jackson_et_al_2001.pdf) and follow it up with [@lotzeDepletionDegradationRecovery2006](https://files.celp-lab.org/biol311/readings/historical/lotze_et_al_2006.pdf).
+
+
+## 📚  References
+
+::: {#refs}
+:::

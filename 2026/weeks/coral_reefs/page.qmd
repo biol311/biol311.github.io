@@ -1,0 +1,45 @@
+---
+title: "🗓️ Week 7 - Coral Reefs"
+---
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-10-12")
+```
+
+In this week, we will discuss coral reef ecology. What is a coral? What is a coral reef? How do we understand the symbiosis between corals and their zooxanthelle? What ecological interactions are important to maintain the structure and function of a coral reef, and what happens when they are disrupted by human impacts?  
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the powerpoint file of the slides [here](). 
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+This week we will read from [Duffy 2021](https://files.celp-lab.org/biol311/readings/coral_reefs/duffy_coral_reefs.pdf) to get a grounded and thorough understanding of the ecosystem.
+
+We'll also be talking this week about [@soaresExtremeMarginalCoral2026](https://files.celp-lab.org/biol311/readings/coral_reefs/Soares_etal_2026_ExtremeMarginalReefs.pdf) in lecture. This reading is optional, but REALLY interesting and useful.
+
+For your Wednesday paper discussion, please read [@roosDriversAbundanceBiomass2019](https://files.celp-lab.org/biol311/readings/coral_reefs/Roos%20et%20al.%20-%202019%20-%20Drivers%20of%20abundance%20and%20biomass%20of%20Brazilian%20parrotfishes.pdf)
+
+## 🧠🐛❓ Would you like to know more?
+
+If you want to bring algae - and particularly coralline algae - back into the picture, check out [@teichertPossibleLinkCoral2020](https://files.celp-lab.org/biol311/readings/coral_reefs/Teichert%20et%20al.%20-%202020%20-%20A%20possible%20link%20between%20coral%20reef%20success,%20crustose%20coralline%20algae%20and%20the%20evolution%20of%20herbivory.pdf)
+
+For more on nutrient effects, see [@silbigerNutrientPollutionDisrupts2018](https://files.celp-lab.org/biol311/readings/coral_reefs/Silbiger%20et%20al.%20-%202018%20-%20Nutrient%20pollution%20disrupts%20key%20ecosystem%20functions%20on%20coral%20reefs.pdf).
+
+For a classic on corals and multiple stable states, see [@knowltonThresholdsMultipleStable1992](https://files.celp-lab.org/biol311/readings/coral_reefs/Knowlton-ThresholdsMultipleStable-1992.pdf).
+
+In thinking about symbiont diversity, I've always enjoyed [@rowanLandscapeEcologyAlgal1997](https://files.celp-lab.org/biol311/readings/coral_reefs/Rowan%20et%20al%201997%20nature.pdf).
+
+## 📚  References
+
+::: {#refs}
+:::
+
