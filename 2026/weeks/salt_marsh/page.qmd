@@ -1,0 +1,65 @@
+---
+title: "🗓️ Week 2 - Life in the Ocean"
+#nocite: |
+---
+
+# Note - lab will be at 5am on Tuesday
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-10-26")
+```
+
+In this week, we will seek to understand the diversity of life in the sea. Who lives there? How are they related to one another? What traits define innovations that allow for the diversity we see. This week sets out the cast of characters we will seek to understand throughout the rest of the semester. 
+
+## 👨 🏫 Lecture Slides
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/04_salt_marshes.pptx). 
+
+## ✍️ Coursework
+For all readings, username is biol311 and password is marinebio!!
+
+For lecture, please read [Pennings and Bertness](https://files.celp-lab.org/biol311/readings/marsh/ch11%20Pennings%20&%20Bertness%202001%20Marine%20Community%20Ecology%20Salt%20marsh%20communities.pdf) - a classic introduction.
+
+For paper discussion, read [@sharpLargeGrazersSuppress2024](https://files.celp-lab.org/biol311/readings/marsh/Sharp%20et%20al.%20-%202024%20-%20Large%20grazers%20suppress%20a%20foundational%20plant%20and%20reduce%20soil%20carbon%20concentration%20in%20eastern%20US%20saltm.pdf) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx)
+
+## 🧠🐛❓ Would you like to know more?
+<!-- 
+Odum, E. P., & Smalley, A. E. (1959). Comparison of population energy flow of a herbivorous and a deposit-feeding invertebrate in a salt marsh ecosystem.
+
+@tealEnergyFlowSalt1962
+
+Redfield, A. C. (1972). Development of a New England salt marsh. Ecological Monographs, 42, 201–237.
+
+Nixon, S. W., & Oviatt, C. A. (1972). “Ecology of a New England salt marsh.” Ecological Monographs, 43, 463–498. A major synthesis of the structure and function of a New England marsh.
+
+Valiela, I., & Teal, J. M. (1979). The nitrogen budget of a salt marsh ecosystem.
+
+Valiela, I., & Teal, J. M. (1974). “Nutrient limitation in salt marsh vegetation.” In Ecology of Halophytes, pp. 547–563. Academic Press. A foundational experimental treatment of nitrogen limitation and plant production. 
+
+Odum, E. P. (1980). “The status of three ecosystem-level hypotheses regarding salt marshes: tidal subsidy, outwelling and the detritus-based food chain.” In Estuarine Perspectives, pp. 485–496. This is an important historical synthesis of the hypotheses that shaped thinking about marsh contributions to estuarine production.
+
+Hacker and Bertness 1999, Bertness and Hacker 1994
+Angeleini et al. 2016 Nat. Com.
+Bertness 1984, Stiven and Kuenzler 1979
+Bertness and Callaway 1994 TREE
+Deegan et al 2012 Nature
+Silliman PNAS
+Altieri, A. H., et al. (2012). A trophic cascade triggers collapse of a salt-marsh ecosystem with intensive recreational fishing. Ecology, 93, 1402–1410.
+
+Bromberg Gedan, K., Silliman, B. R., & Bertness, M. D. (2009). Centuries of human-driven change in salt marsh ecosystems. Annual Review of Marine Science, 1, 117–141.
+
+He, Q., & Silliman, B. R. (2016). Consumer control as a common driver of coastal vegetation worldwide. Ecological Monographs, 86, 303–321.
+
+Kirwan & Megonigal (2013)
+-->
+
+## 📚  References
+
+::: {#refs}
+:::

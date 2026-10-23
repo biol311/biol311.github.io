@@ -16,6 +16,7 @@ project:
     - "2026/midterm/*.qmd"
     - "2026/labs/lsw_crabs/*.qmd"
     - "2026/weeks/coral_reefs/*.qmd"
+    - "2026/weeks/salt_marsh/*.qmd"
 
 
 website:
@@ -107,6 +108,12 @@ website:
            text: "Week 7 - Coral Reefs: 10/19/2026"
            contents:
              - href: 2026/weeks/coral_reefs/page.qmd
+               text: 👨‍🏫 Lecture Material
+
+         - href: 2026/weeks/salt_marsh/page.qmd
+           text: "Week 8 - Salt Marshes: 10/26/2026"
+           contents:
+             - href: 2026/weeks/salt_marsh/page.qmd
                text: 👨‍🏫 Lecture Material
 
                
