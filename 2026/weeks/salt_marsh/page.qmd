@@ -29,35 +29,28 @@ For lecture, please read [Pennings and Bertness](https://files.celp-lab.org/biol
 For paper discussion, read [@sharpLargeGrazersSuppress2024](https://files.celp-lab.org/biol311/readings/marsh/Sharp%20et%20al.%20-%202024%20-%20Large%20grazers%20suppress%20a%20foundational%20plant%20and%20reduce%20soil%20carbon%20concentration%20in%20eastern%20US%20saltm.pdf) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx)
 
 ## 🧠🐛❓ Would you like to know more?
-<!-- 
-Odum, E. P., & Smalley, A. E. (1959). Comparison of population energy flow of a herbivorous and a deposit-feeding invertebrate in a salt marsh ecosystem.
 
-@tealEnergyFlowSalt1962
+Want to read the classics on bottom-up control of salt marshes? There are a lot! See the classic - [@odumCOMPARISONPOPULATIONENERGY1959](https://files.celp-lab.org/biol311/readings/marsh/Odum%20and%20Smalley%20-%201959%20-%20Comparison%20of%20population%20energy%20flow%20of%20a%20herbivorous%20and%20a%20deposit-feeding%20invertebrate%20in%20a%20salt%20m.pdf),  [@tealEnergyFlowSalt1962](https://files.celp-lab.org/biol311/readings/marsh/Teal%20-%201962%20-%20Energy%20Flow%20in%20the%20Salt%20Marsh%20Ecosystem%20of%20Georgia.pdf), [@redfieldDevelopmentNewEngland1972](https://files.celp-lab.org/biol311/readings/marsh/Redfield%20-%201972%20-%20Development%20of%20a%20New%20England%20Salt%20Marsh.pdf), and [@nixonEcologyNewEngland1973a](https://files.celp-lab.org/biol311/readings/marsh/Nixon%20and%20Oviatt%20-%201973%20-%20Ecology%20of%20a%20New%20England%20Salt%20Marsh.pdf)
 
-Redfield, A. C. (1972). Development of a New England salt marsh. Ecological Monographs, 42, 201–237.
+For how that might propogate up the brown web in marshes, see [@stivenResponseTwoSalt1979](https://files.celp-lab.org/biol311/readings/marsh/Stiven%20and%20Kuenzler%20-%201979%20-%20The%20Response%20of%20Two%20Salt%20Marsh%20Molluscs,%20Littorina%20irrorata%20and%20Geukensia%20demissa,%20to%20Field%20Manipula.pdf).
 
-Nixon, S. W., & Oviatt, C. A. (1972). “Ecology of a New England salt marsh.” Ecological Monographs, 43, 463–498. A major synthesis of the structure and function of a New England marsh.
+With respect to nutrients, Ivan Valiela at the MBL in Woods Hole has written some of the seminal classic work - see [@valielaNitrogenBudgetSalt1979](https://files.celp-lab.org/biol311/readings/marsh/Valiela%20and%20Teal%20-%201979%20-%20The%20nitrogen%20budget%20of%20a%20salt%20marsh%20ecosystem.pdf)
 
-Valiela, I., & Teal, J. M. (1979). The nitrogen budget of a salt marsh ecosystem.
+To get an update, and see how microbes play into the whole story, see [@bowenSaltMarshNitrogen2024](https://files.celp-lab.org/biol311/readings/marsh/Bowen_et_al_2023.pdf)
 
-Valiela, I., & Teal, J. M. (1974). “Nutrient limitation in salt marsh vegetation.” In Ecology of Halophytes, pp. 547–563. Academic Press. A foundational experimental treatment of nitrogen limitation and plant production. 
+For the classic on positive interactions in marsh plants, see [@bertnessPhysicalStressPositive1994a](https://files.celp-lab.org/biol311/readings/marsh/Bertness%20and%20Hacker%20-%201994%20-%20Physical%20Stress%20and%20Positive%20Associations%20Among%20Marsh%20Plants.pdf) and then a followup in the upper marsh and more brackish systems with [@hackerExperimentalEvidenceFactors1999a](https://files.celp-lab.org/biol311/readings/marsh/Hacker%20and%20Bertness%20-%201999%20-%20Experimental%20Evidence%20for%20Factors%20Maintaining%20Plant%20Species%20Diversity%20in%20a%20New%20England%20Salt%20Marsh.pdf)
 
-Odum, E. P. (1980). “The status of three ecosystem-level hypotheses regarding salt marshes: tidal subsidy, outwelling and the detritus-based food chain.” In Estuarine Perspectives, pp. 485–496. This is an important historical synthesis of the hypotheses that shaped thinking about marsh contributions to estuarine production.
+For the great synthesis of positive interactions and stress, see [@bertnessPositiveInteractionsCommunities1994](https://files.celp-lab.org/biol311/readings/marsh/Bertness%20and%20Callaway%20-%201994%20-%20Positive%20interactions%20in%20communities.pdf)
 
-Hacker and Bertness 1999, Bertness and Hacker 1994
-Angeleini et al. 2016 Nat. Com.
-Bertness 1984, Stiven and Kuenzler 1979
-Bertness and Callaway 1994 TREE
-Deegan et al 2012 Nature
-Silliman PNAS
-Altieri, A. H., et al. (2012). A trophic cascade triggers collapse of a salt-marsh ecosystem with intensive recreational fishing. Ecology, 93, 1402–1410.
+To learn more about the tight coupling between ribbed mussels and cordgrass, see [@bertnessRibbedMusselsSpartina1984a](https://files.celp-lab.org/biol311/readings/marsh/Bertness%20-%201984%20-%20Ribbed%20Mussels%20and%20Spartina%20Alterniflora%20Production%20in%20a%20New%20England%20Salt%20Marsh.pdf) and then followups such as [@angeliniKeystoneMutualismUnderpins2016](https://files.celp-lab.org/biol311/readings/marsh/Angelini%20et%20al.%20-%202016%20-%20A%20keystone%20mutualism%20underpins%20resilience%20of%20a%20coastal%20ecosystem%20to%20drought.pdf) and [@angeliniFoundationSpeciesOverlap2015a](https://files.celp-lab.org/biol311/readings/marsh/Angelini%20et%20al.%20-%202015%20-%20Foundation%20species'%20overlap%20enhances%20biodiversity%20and%20multifunctionality%20from%20the%20patch%20to%20landscape.pdf).
 
-Bromberg Gedan, K., Silliman, B. R., & Bertness, M. D. (2009). Centuries of human-driven change in salt marsh ecosystems. Annual Review of Marine Science, 1, 117–141.
+If you want to learn more about top-down control in salt marses, see [@sillimanTopdownControlSpartina2001](https://files.celp-lab.org/biol311/readings/marsh/Silliman%20and%20Zieman%20-%202001%20-%20Top-down%20Control%20of%20Spartina%20Alterniflora%20Production%20by%20Periwinkle%20Grazing%20in%20a%20Virginia%20Salt%20Marsh.pdf) and a followup [@sillimanTrophicCascadeRegulates2002](https://files.celp-lab.org/biol311/readings/marsh/Silliman%20and%20Bertness%20-%202002%20-%20A%20trophic%20cascade%20regulates%20salt%20marsh%20primary%20production.pdf) for the trophic cascade. For then a big review, see [@heConsumerControlCommon2016](https://files.celp-lab.org/biol311/readings/marsh/He%20and%20Silliman%20-%202016%20-%20Consumer%20control%20as%20a%20common%20driver%20of%20coastal%20vegetation%20worldwide.pdf).
 
-He, Q., & Silliman, B. R. (2016). Consumer control as a common driver of coastal vegetation worldwide. Ecological Monographs, 86, 303–321.
+When we get into modern human impacts, check out the classic review [@gedanCenturiesHumandrivenChange2009](https://files.celp-lab.org/biol311/readings/marsh/Gedan_et_al_2009.pdf) - and if you want to get more specific, a few pieces to consider:
+     - Eutrophication can cause marsh slumping and break up, from [@deeganCoastalEutrophicationDriver2012](https://files.celp-lab.org/biol311/readings/marsh/Deegan_et_al_2012.pdf)  
+     - If fishing removes predators of herbivorous marsh crabs, this can lead to large-scale defaunation. [@altieriTrophicCascadeTriggers2012](https://files.celp-lab.org/biol311/readings/marsh/Altieri%202012%20Ecology.pdf).  
+     - Sea level rise is also of critical importance - see [@kirwanTidalWetlandStability2013](https://files.celp-lab.org/biol311/readings/marsh/Kirwan%202013%20Nature.pdf).
 
-Kirwan & Megonigal (2013)
--->
 
 ## 📚  References
 
