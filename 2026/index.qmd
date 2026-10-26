@@ -10,7 +10,7 @@ format: html
 - Please note, for the lab the week of 10/25, we will meet at 530am behind the ISC.  
 
 (10/26/2026)  
-- Instructions for your lab final projects are up [here](https://biol311.github.io/2026/weeks/labs/project/final_lab_project.html).
+- Instructions for your lab final projects are up [here](https://biol311.github.io/2026/weeks/labs/project/final_lab_project.qmd).
 :::
 
 
