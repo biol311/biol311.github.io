@@ -6,15 +6,11 @@ format: html
 
 ::: {.callout-important collapse=false}
 ## 📢 Important
-(9/21/2026)
-- Please note, for the lab the week of 9/28, we will meet at 6am on Monday the 28th in the Bayside parking lot! See you there! (hey, the best tides were over the weekend, but I took pity on you - also they were before sunrise).
+(10/23/2026)  
+- Please note, for the lab the week of 10/25, we will meet at 530am behind the ISC.  
 
-
-(9/20/2026)
-
-- Readings for week 3 [are up](/2026/weeks/marine_biogeography/page.qmd) - go get 'em!
-
-- Please go check out the prep for the [dock data analysis lab](labs/dock_lab/in_class_lab.qmd)
+(10/26/2026)  
+- Instructions for your lab final projects are up [here](https://biol311.github.io/2026/weeks/labs/project/final_lab_project.html).
 :::
 
 
