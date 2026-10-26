@@ -125,8 +125,9 @@ website:
            contents:
              - href: 2026/midterm/page.qmd
                text: The midterm
-             - href: 2026/labs/project/final_lab_project.qmd
-               text: 🌊 Lab
+               
+         - href: 2026/labs/project/final_lab_project.qmd
+           text: "Week 9 🌊 Lab Final Project Planning"
                
   navbar:
     background: primary
