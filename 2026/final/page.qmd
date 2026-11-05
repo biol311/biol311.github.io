@@ -1,0 +1,122 @@
+---
+title: "🎧 Final Podcast"
+---
+
+## The Charge: 
+We’ve spent all semester reading background literature, immersing ourselves in what marine ecological research tells us about the world and the ocean. I want you to tell us a story of the ocean - of what it teaches us, of what is amazing about it, of what we can and have learned. I would like this to demonstrate your engagement, knowledge, and connection to the course material through the semester as a way to see how you have metabolized the class, and to maybe get a hint of where all of the concepts, facts, and ideas will guide you in the future.
+
+
+I’d like you to create a podcast.
+
+The podcast should be something that is accessible to any audience, but that is grounded firmly in science and primary literature. I’m looking for a 10-15 minute (longer is fine) podcast about an ecosystem, a species, a concept, or a person in marine biology. This is purposely broad because I want you to have the opportunity to connect your experience to the material in whatever way best suits you.
+
+## Due Date: 
+I will setup a google folder for you to drop your audio file of your final project and a simple Canvas assignment to say it’s been submitted. It is due on **December 16th at 2pm**.
+
+## Podcasts for Inspiration:
+It might be hard to know what works well in a science oriented podcast. Here are a few of my favs and some episodes which might serve as inspiration
+
+- Smologies (short episodes of Ologies - see below): [Otters](https://www.alieward.com/smologies/otters). [Carnivores](https://www.alieward.com/smologies/carnivores). [Sharks](https://www.alieward.com/smologies/sharks).
+
+- [Ologies](https://www.alieward.com/ologies): [Algae](https://www.alieward.com/ologies/macrophycology). [Aquaculture](https://www.alieward.com/ologies/aquacultureecology). [Crabs](https://www.alieward.com/ologies/carcinology). [Tardigrades](https://www.alieward.com/ologies/tardigradology). And many more!
+
+- [Future Ecologie](https://www.futureecologies.net)s: [The Kelp Worlds Episodes](https://www.futureecologies.net/kelpworlds). [Sea gardens](https://www.futureecologies.net/listen/fe-6-2-sea-garden).[ A Nori Story](https://www.futureecologies.net/patreon-feed/seaweed-sojourning-2). 
+
+- [Weird and Dead](https://www.weirdanddead.com): [Arrow worms](https://www.weirdanddead.com/episodes/307-worms-dead). [Preserving fossil fish](https://www.weirdanddead.com/episodes/season-1/how-to-preserve-a-fossil-fish).[ The Burgess Shale](https://www.weirdanddead.com/episodes/season-2/208-the-burgess-shale). And more!
+
+- [Radiolab](https://radiolab.org/podcast): [Beware the Sand Striker](https://radiolab.org/podcast/beware-sand-striker)
+
+## Podcasts from Previous Years
+What have previous students done? Here are a few previous class podcasts that were great!
+
+- [Revisiting Roots](https://files.celp-lab.org/biol311/podcasts/Revisiting%20Roots.mp3)   
+- [A Revival of the Green Sea Turtle](https://files.celp-lab.org/biol311/podcasts/A%20Revival%20of%20the%20Green%20Sea%20Turtle.m4a)    
+- [The Living Sea](https://files.celp-lab.org/biol311/podcasts/The_Living_Sea_final%20podcast!.mp3)  
+- [The Deadliest Underfoot](https://files.celp-lab.org/biol311/podcasts/the_deadliest_underfoot_StonefishPodcast.mp3)  
+
+## Your Podcast Assignment Options:
+
+To give you some guardrails/guidance for what you can do for your project, choose from one of the options below. If what you want to do falls outside of these, make sure you consult with me first.
+
+**Let’s Dive Deeper:** We’ve talked about a number of ecosystems over the course of the semester. But, we’ve only been able to dig into it so deeply. Go further! Go deeper! What ELSE should we know about it? Why is it interesting? What have we learned from it?
+
+**A Whole New Ecosystem:** In this course, we have discussed a number of marine ecosystems. Some we have dove into deeply, some we have only touched on. Others, we have not discussed at all. Make a podcast about an ecosystem we haven’t talked about. What should we know about it? Why is it interesting? What have we learned from it?
+
+**Let me tell you about THIS species:** We’ve talked about a few key keystone and foundation species, as well as some of the weird and wild things different species do in the ocean. Tell us a story about one species in particular. What is it? Tell us its natural history? What have we learned from it in marine biology.
+
+**Oh. My. God. Have you read this?:** We have read many wonderful papers over the course of the semester, and I’ve given you access to a number of others I thought were key or useful. Choose a paper that is of interest, and have a discussion about it - what did we learn? Why is it important in the field?  
+
+**Heroes of Marine Biology:** We’ve talked about a number of figures who loom large in the field. But this was just scratching the surface. There are a number of figures who have made seminal contributions, or who are just plain neat. Tell us their story through their scientific work and any personal or biographical details that are available. Consider people like Kathleen Mary-Drew Baker, Stephen Hawkins, Jane Lubchenco, Karina Nielsen, Mary Parke, Marie Tharp, Dawn Wright, Kathy-Ann Miller, Steven Morgan, Edouard Fischer-Piette, Harry Hatton, Grey Williams, or many many others.
+
+Other: You tell me! Does your group have an idea that they’d like to pitch? Let me know within one week of getting the assignment and I will either clear it or ask you to clarify or work on one of the above topics.
+
+
+**Teams of Three:** You will conduct this project in groups of three. Why three? To tell a story, I want your podcast to be a conversation between. Yes, one person should be the lead voice and monologue a bit, but, a conversation is often a useful way to discuss material (although if you realize a single voice is the best way, OK). One person should take on the main task of editing. It’s a great deal to do, and hard to have many hands do the work. One person should take the lead in writing and scripting an initial outline/draft. All three should be engaged in finding literature and doing research to make the podcast a thorough exploration of your topic.
+
+**[Please sign up with your group here so I know who the groups are](https://docs.google.com/spreadsheets/d/1AfDxF0qTGxbad3D4PG3U1MdjxGh8jOuhYPAw6BqPFgw/edit?usp=sharing)**
+
+## Training and Software: 
+We will hold a training session on in class to get you used to interviewing each other and using your phones as microphones. We will also introduce you to the software [Audacity](https://www.audacityteam.org), a free open source multi-platform tool for audio editing that you will need to create your podcast. If you have another platform you’d like to use because you are already familiar with it, go for it.  
+
+Please also instal the [FFmpeg library](https://support.audacityteam.org/basics/installing-ffmpeg).  
+
+Here’s an Audacity [cheat sheet](https://helpwiki.evergreen.edu/wiki/images/7/76/Audacitycheatsheet.pdf) and a list of [keyboard shortcuts](https://quickref.me/audacity.html). Here are some [video tutorials.](https://www.youtube.com/results?search_query=make+a+podcast+with+audacity).  
+
+## Sources for Audio
+
+- [Wikimedia Commons](https://commons.wikimedia.org/) - See the [audio files](https://commons.wikimedia.org/wiki/Category:Audio_files)
+
+- [Free Music Archive](https://freemusicarchive.org/)
+
+- [Freesound](https://freesound.org/)
+
+- [Pixabay](https://pixabay.com/sound-effects/) for Sound Effects
+
+- [Mixkit](https://mixkit.co/)
+
+
+## Required Length: 
+Your podcast should be \~10-15 minutes. That said, if you go long because you and your group decide to plunge down a rabbit hole, FANTASTIC!
+
+
+## Annotated Bibliography: 
+For your project, I want you to dig deeply into your topic. Towards that end, I would like you to submit an annotated bibliography of references you’ve consulted. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. I will ask you to submit the bibliography **December 11th.** You should follow the following format:
+
+
+Your bibliography should follow this format:
+
+Last Name, First. Date. Title. Journal. Volume: Page-Numbers.  
+
+One very short paragraph/a few sentences of discussion.
+
+
+**For example**
+Cucumaria, C. and Pachathyone, R. 1995. It hurts when I eject my viscera. Journal of Echinoderm Self-Reflection. 3: 45-46.  
+
+
+This paper discussed from a first person point of view how much it hurts when sea cucumbers eject their own viscera in fear. They provided many compelling stories that led the reader to understand their strong fear response, but how much they restrained themselves before making the ultimate sacrifice. Truly an advance in the field of first-person sea cucumber narrative.
+
+**Note, every time you cite Wikipedia or a source not from the peer-reviewed literature, I will dock you one point.**
+
+
+## Grading (65 pts):
+
+Clear introduction to what you’re discussing: 5 pts.
+
+Cleanly stated importance of the topic: 5 pts.
+
+Well-edited to be understandable: 5 pts.
+
+Coherent discussion: 10 pts.
+
+Entertaining: 15 pts.
+
+Ties together ideas from the semester with what you’re discussing: 5 pts. 
+
+Solid conclusion with a clean take-home message: 5 pts.
+
+Use of sources if needed: 5 pts.
+
+Bibliography has 10 referenced papers: 5 pts.
+
+Bibliography has properly formatted references 5 pts

@@ -19,6 +19,7 @@ project:
     - "2026/weeks/salt_marsh/*.qmd"
     - "2026/labs/marsh/*.qmd"
     - "2026/labs/project/*.qmd"
+    - "2026/final/*.qmd"
 
 
 website:
@@ -46,6 +47,8 @@ website:
         text: "📝 Reading Papers"
       - href: 2026/midterm/page.qmd
         text: "📝 Midterm"
+      - href: 2026/final/page.qmd
+        text: "🎧 Final Podcast"
       # - href: 2026/communication.qmd
       #   text: "📟 Communication"
       # - href: 2026/assignments.qmd
@@ -128,7 +131,10 @@ website:
                
          - href: 2026/labs/project/final_lab_project.qmd
            text: "Week 9 🌊 Lab Final Project Planning"
-               
+
+         - href: 2026/final/page.qmd
+           text: "Week 10 🎧 Final Podcast Planning"
+                            
   navbar:
     background: primary
   page-footer:
