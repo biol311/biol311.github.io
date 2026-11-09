@@ -24,7 +24,7 @@
     "href": "2026/final/page.html#due-date",
     "title": "🎧 Final Podcast",
     "section": "Due Date:",
-    "text": "Due Date:\nI will setup a google folder for you to drop your audio file of your final project and a simple Canvas assignment to say it’s been submitted. It is due on December 16th at 2pm.",
+    "text": "Due Date:\nI will setup a google folder for you to drop your audio file of your final project and a simple Canvas assignment to say it’s been submitted. It is due on December 16th at 2pm.\nYou also have to submit an annotated bibliography of at least 10 references (see below) that is due by December 11th.",
     "crumbs": [
       "🎧 Final Podcast"
     ]
@@ -34,7 +34,7 @@
     "href": "2026/final/page.html#podcasts-for-inspiration",
     "title": "🎧 Final Podcast",
     "section": "Podcasts for Inspiration:",
-    "text": "Podcasts for Inspiration:\nIt might be hard to know what works well in a science oriented podcast. Here are a few of my favs and some episodes which might serve as inspiration\n\nSmologies (short episodes of Ologies - see below): Otters. Carnivores. Sharks.\nOlogies: Algae. Aquaculture. Crabs. Tardigrades. And many more!\nFuture Ecologies: The Kelp Worlds Episodes. Sea gardens.A Nori Story. \nWeird and Dead: Arrow worms. Preserving fossil fish.The Burgess Shale. And more!\nRadiolab: Beware the Sand Striker",
+    "text": "Podcasts for Inspiration:\nIt might be hard to know what works well in a science oriented podcast. Here are a few of my favs and some episodes which might serve as inspiration\n\nSmologies (short episodes of Ologies - see below): Otters. Carnivores. Sharks.\nOlogies: Algae. Aquaculture. Crabs. Tardigrades. And many more!\nFuture Ecologiess: The Kelp Worlds Episodes. Sea gardens.A Nori Story.\nWeird and Dead: Arrow worms. Preserving fossil fish.The Burgess Shale. And more!\nRadiolab: Beware the Sand Striker\nJax and Phoebe Make a Planet\nScience vs\nkurzgesagt",
     "crumbs": [
       "🎧 Final Podcast"
     ]
@@ -64,7 +64,17 @@
     "href": "2026/final/page.html#training-and-software",
     "title": "🎧 Final Podcast",
     "section": "Training and Software:",
-    "text": "Training and Software:\nWe will hold a training session on in class to get you used to interviewing each other and using your phones as microphones. We will also introduce you to the software Audacity, a free open source multi-platform tool for audio editing that you will need to create your podcast. If you have another platform you’d like to use because you are already familiar with it, go for it.\nPlease also instal the FFmpeg library.\nHere’s an Audacity cheat sheet and a list of keyboard shortcuts. Here are some video tutorials..",
+    "text": "Training and Software:\nWe will hold a training session on in class to get you used to interviewing each other and using your phones as microphones. We will also introduce you to the software Audacity, a free open source multi-platform tool for audio editing that you will need to create your podcast. If you have another platform you’d like to use because you are already familiar with it, go for it.\nPlease also instal the FFmpeg library.\nHere’s an Audacity cheat sheet and a list of keyboard shortcuts. Here are some video tutorials. and the full intro to Audacity 4.\nHere are some useful plugins - Noise reduction feature\n\nCompression feature",
+    "crumbs": [
+      "🎧 Final Podcast"
+    ]
+  },
+  {
+    "objectID": "2026/final/page.html#demo-files-for-class",
+    "href": "2026/final/page.html#demo-files-for-class",
+    "title": "🎧 Final Podcast",
+    "section": "Demo Files for class",
+    "text": "Demo Files for class\nIn class, we will do a little work in Audacity. Make sure you have it and ffmpeg installed, but also grab these two.\n- Download Neil Armstrong Audio\n\nDownload this demo music",
     "crumbs": [
       "🎧 Final Podcast"
     ]
@@ -94,7 +104,7 @@
     "href": "2026/final/page.html#annotated-bibliography",
     "title": "🎧 Final Podcast",
     "section": "Annotated Bibliography:",
-    "text": "Annotated Bibliography:\nFor your project, I want you to dig deeply into your topic. Towards that end, I would like you to submit an annotated bibliography of references you’ve consulted. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. I will ask you to submit the bibliography December 11th. You should follow the following format:\nYour bibliography should follow this format:\nLast Name, First. Date. Title. Journal. Volume: Page-Numbers.\nOne very short paragraph/a few sentences of discussion.\nFor example Cucumaria, C. and Pachathyone, R. 1995. It hurts when I eject my viscera. Journal of Echinoderm Self-Reflection. 3: 45-46.\nThis paper discussed from a first person point of view how much it hurts when sea cucumbers eject their own viscera in fear. They provided many compelling stories that led the reader to understand their strong fear response, but how much they restrained themselves before making the ultimate sacrifice. Truly an advance in the field of first-person sea cucumber narrative.\nNote, every time you cite Wikipedia or a source not from the peer-reviewed literature, I will dock you one point.",
+    "text": "Annotated Bibliography:\nFor your project, I want you to dig deeply into your topic. Towards that end, I would like you to submit an annotated bibliography of at least 10 references you’ve consulted. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. I will ask you to submit the bibliography December 11th. You should follow the following format:\nYour bibliography should follow this format:\nLast Name, First. Date. Title. Journal. Volume: Page-Numbers.\nOne very short paragraph/a few sentences of discussion.\nFor example Cucumaria, C. and Pachathyone, R. 1995. It hurts when I eject my viscera. Journal of Echinoderm Self-Reflection. 3: 45-46.\nThis paper discussed from a first person point of view how much it hurts when sea cucumbers eject their own viscera in fear. They provided many compelling stories that led the reader to understand their strong fear response, but how much they restrained themselves before making the ultimate sacrifice. Truly an advance in the field of first-person sea cucumber narrative.\nNote, every time you cite Wikipedia or a source not from the peer-reviewed literature, I will dock you one point.",
     "crumbs": [
       "🎧 Final Podcast"
     ]
