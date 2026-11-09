@@ -66,7 +66,7 @@ To give you some guardrails/guidance for what you can do for your project, choos
 ## Training and Software: 
 We will hold a training session on in class to get you used to interviewing each other and using your phones as microphones. We will also introduce you to the software [Audacity](https://www.audacityteam.org), a free open source multi-platform tool for audio editing that you will need to create your podcast. If you have another platform you’d like to use because you are already familiar with it, go for it.  
 
-Please also instal the [FFmpeg library](https://support.audacityteam.org/basics/installing-ffmpeg).  
+Please also instal the [FFmpeg library](https://www.audacityteam.org/manual/basics/installing-ffmpeg/).  
 
 Here’s an Audacity [cheat sheet](https://helpwiki.evergreen.edu/wiki/images/7/76/Audacitycheatsheet.pdf) and a list of [keyboard shortcuts](https://quickref.me/audacity.html). Here are some [video tutorials.](https://www.youtube.com/results?search_query=make+a+podcast+with+audacity) and the [full intro to Audacity 4](https://www.youtube.com/watch?v=aypNmBI8H88).  
 
