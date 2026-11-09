@@ -77,6 +77,7 @@ Here are some useful plugins
 
 ## Demo Files for class
 In class, we will do a little work in Audacity. Make sure you have it and ffmpeg installed, but also grab these two.  
+
 - Download [Neil Armstrong Audio](http://commons.wikimedia.org/wiki/File:Neil_Armstrong_small_step.wav)  
 
 - Download [this demo music](http://commons.wikimedia.org/wiki/File:Music_of_MultiVersus_-_Space_Jam_Enter_the_Multiverse.ogg)  
