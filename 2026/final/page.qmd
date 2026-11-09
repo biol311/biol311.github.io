@@ -11,7 +11,9 @@ I’d like you to create a podcast.
 The podcast should be something that is accessible to any audience, but that is grounded firmly in science and primary literature. I’m looking for a 10-15 minute (longer is fine) podcast about an ecosystem, a species, a concept, or a person in marine biology. This is purposely broad because I want you to have the opportunity to connect your experience to the material in whatever way best suits you.
 
 ## Due Date: 
-I will setup a google folder for you to drop your audio file of your final project and a simple Canvas assignment to say it’s been submitted. It is due on **December 16th at 2pm**.
+I will setup a google folder for you to drop your audio file of your final project and a simple Canvas assignment to say it’s been submitted. It is due on **December 16th at 2pm**.  
+
+You also have to submit an annotated bibliography of at least 10 references (see below) that is due by **December 11th**.
 
 ## Podcasts for Inspiration:
 It might be hard to know what works well in a science oriented podcast. Here are a few of my favs and some episodes which might serve as inspiration
@@ -20,11 +22,17 @@ It might be hard to know what works well in a science oriented podcast. Here are
 
 - [Ologies](https://www.alieward.com/ologies): [Algae](https://www.alieward.com/ologies/macrophycology). [Aquaculture](https://www.alieward.com/ologies/aquacultureecology). [Crabs](https://www.alieward.com/ologies/carcinology). [Tardigrades](https://www.alieward.com/ologies/tardigradology). And many more!
 
-- [Future Ecologie](https://www.futureecologies.net)s: [The Kelp Worlds Episodes](https://www.futureecologies.net/kelpworlds). [Sea gardens](https://www.futureecologies.net/listen/fe-6-2-sea-garden).[ A Nori Story](https://www.futureecologies.net/patreon-feed/seaweed-sojourning-2). 
+- [Future Ecologies](https://www.futureecologies.net)s: [The Kelp Worlds Episodes](https://www.futureecologies.net/kelpworlds). [Sea gardens](https://www.futureecologies.net/listen/fe-6-2-sea-garden).[ A Nori Story](https://www.futureecologies.net/patreon-feed/seaweed-sojourning-2).  
 
 - [Weird and Dead](https://www.weirdanddead.com): [Arrow worms](https://www.weirdanddead.com/episodes/307-worms-dead). [Preserving fossil fish](https://www.weirdanddead.com/episodes/season-1/how-to-preserve-a-fossil-fish).[ The Burgess Shale](https://www.weirdanddead.com/episodes/season-2/208-the-burgess-shale). And more!
 
-- [Radiolab](https://radiolab.org/podcast): [Beware the Sand Striker](https://radiolab.org/podcast/beware-sand-striker)
+- [Radiolab](https://radiolab.org/podcast): [Beware the Sand Striker](https://radiolab.org/podcast/beware-sand-striker)  
+
+- [Jax and Phoebe Make a Planet](https://www.makeaplanetpod.earth/)  
+
+- [Science vs](https://podcasts.apple.com/us/podcast/science-vs/id1051557000)  
+
+- [kurzgesagt](https://kurzgesagt.org/)  
 
 ## Podcasts from Previous Years
 What have previous students done? Here are a few previous class podcasts that were great!
@@ -48,7 +56,7 @@ To give you some guardrails/guidance for what you can do for your project, choos
 
 **Heroes of Marine Biology:** We’ve talked about a number of figures who loom large in the field. But this was just scratching the surface. There are a number of figures who have made seminal contributions, or who are just plain neat. Tell us their story through their scientific work and any personal or biographical details that are available. Consider people like Kathleen Mary-Drew Baker, Stephen Hawkins, Jane Lubchenco, Karina Nielsen, Mary Parke, Marie Tharp, Dawn Wright, Kathy-Ann Miller, Steven Morgan, Edouard Fischer-Piette, Harry Hatton, Grey Williams, or many many others.
 
-Other: You tell me! Does your group have an idea that they’d like to pitch? Let me know within one week of getting the assignment and I will either clear it or ask you to clarify or work on one of the above topics.
+**Other:** You tell me! Does your group have an idea that they’d like to pitch? Let me know within one week of getting the assignment and I will either clear it or ask you to clarify or work on one of the above topics.
 
 
 **Teams of Three:** You will conduct this project in groups of three. Why three? To tell a story, I want your podcast to be a conversation between. Yes, one person should be the lead voice and monologue a bit, but, a conversation is often a useful way to discuss material (although if you realize a single voice is the best way, OK). One person should take on the main task of editing. It’s a great deal to do, and hard to have many hands do the work. One person should take the lead in writing and scripting an initial outline/draft. All three should be engaged in finding literature and doing research to make the podcast a thorough exploration of your topic.
@@ -60,7 +68,12 @@ We will hold a training session on in class to get you used to interviewing each
 
 Please also instal the [FFmpeg library](https://support.audacityteam.org/basics/installing-ffmpeg).  
 
-Here’s an Audacity [cheat sheet](https://helpwiki.evergreen.edu/wiki/images/7/76/Audacitycheatsheet.pdf) and a list of [keyboard shortcuts](https://quickref.me/audacity.html). Here are some [video tutorials.](https://www.youtube.com/results?search_query=make+a+podcast+with+audacity).  
+Here’s an Audacity [cheat sheet](https://helpwiki.evergreen.edu/wiki/images/7/76/Audacitycheatsheet.pdf) and a list of [keyboard shortcuts](https://quickref.me/audacity.html). Here are some [video tutorials.](https://www.youtube.com/results?search_query=make+a+podcast+with+audacity) and the [full intro to Audacity 4](https://www.youtube.com/watch?v=aypNmBI8H88).  
+
+Here are some useful plugins
+- [Noise reduction feature](https://www.audacityteam.org/features/noise-reduction/)  
+
+- [Compression feature](https://www.audacityteam.org/features/compressor/)  
 
 ## Sources for Audio
 
@@ -80,7 +93,7 @@ Your podcast should be \~10-15 minutes. That said, if you go long because you an
 
 
 ## Annotated Bibliography: 
-For your project, I want you to dig deeply into your topic. Towards that end, I would like you to submit an annotated bibliography of references you’ve consulted. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. I will ask you to submit the bibliography **December 11th.** You should follow the following format:
+For your project, I want you to dig deeply into your topic. Towards that end, I would like you to submit an annotated bibliography of **at least 10** references you’ve consulted. The Bibliography should use the MLA citation format for references and include a brief paragraph for each paper about how it supported their position. I will ask you to submit the bibliography **December 11th.** You should follow the following format:
 
 
 Your bibliography should follow this format:
