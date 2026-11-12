@@ -1,0 +1,40 @@
+---
+title: "🗓️ Week 11 - Open Ocean & Deep Sea"
+---
+
+
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-11-16")
+```
+
+In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course. 
+
+## 👨 🏫 Lecture Slides
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/10_open_ocean.pptx). 
+
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+For lecture, please read [Edwards and Lichtman](https://files.celp-lab.org/biol311/readings/open_ocean/MCEC_16_phytoplankton_edwards_litchman_book_chapter.pdf). While not required, I would also heavily suggest [@iversenCarbonExportOcean2023](https://files.celp-lab.org/biol311/readings/open_ocean/iverson-annurev-marine-032122-035153.pdf).
+
+For paper discussion, read [@dejongeChangesUpperoceanEcosystems2024](https://files.celp-lab.org/biol311/readings/open_ocean/de%20Jonge%20et%20al.%20-%202024%20-%20Changes%20to%20upper-ocean%20ecosystems%20may%20directly%20impact%20abyssal%20scavenger%20communities.pdf) and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx)
+
+
+## 🧠🐛❓ Would you like to know more?
+
+Check Back Soon!
+
+
+## 📚  References
+
+::: {#refs}
+:::

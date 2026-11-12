@@ -20,6 +20,7 @@ project:
     - "2026/labs/marsh/*.qmd"
     - "2026/labs/project/*.qmd"
     - "2026/final/*.qmd"
+    - "2026/weeks/open_ocean/*.qmd"
 
 
 website:
@@ -134,7 +135,12 @@ website:
 
          - href: 2026/final/page.qmd
            text: "Week 10 🎧 Final Podcast Planning"
-                            
+
+         - href: 2026/weeks/open_ocean/page.qmd
+           text: "Week 1 - Open Ocean & Deep Sea: 11/21/2026"
+           contents:
+             - href: 2026/weeks/open_ocean/page.qmd
+               text: 👨‍🏫 Lecture Material                            
   navbar:
     background: primary
   page-footer:
