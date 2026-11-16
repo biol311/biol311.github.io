@@ -31,7 +31,9 @@ For paper discussion, read [@dejongeChangesUpperoceanEcosystems2024](https://fil
 
 ## 🧠🐛❓ Would you like to know more?
 
-Check Back Soon!
+To learn more about larvacean house sinking, see @robisonGiantLarvaceanHouses2005.
+
+The experiment to look at how nutrient concentration influences food web topology is from [@stiborCopepodsActSwitch2004](https://files.celp-lab.org/biol311/readings/open_ocean/Stibor%20et%20al.%20-%202004%20-%20Copepods%20act%20as%20a%20switch%20between%20alternative%20trophic%20cascades%20in%20marine%20pelagic%20food%20webs.pdf).
 
 
 ## 📚  References
