@@ -40,4 +40,3 @@ Depending on your ‘design’ you should come up with a data recording system t
 
 
 For Next week please provide an Excel or Google sheets entered version of this file by Tuesday at class time
-
