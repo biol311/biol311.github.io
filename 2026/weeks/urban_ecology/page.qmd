@@ -1,0 +1,39 @@
+---
+title: "🗓️ Week 12 - Urban Marine Ecology"
+---
+ 
+## 🌊 🦀 Tides for this week
+```{r}
+#| warning: false 
+#| message: false
+#| echo: false
+#list.dirs("../../..")
+source("../../../helpers/make_tideplot.R")
+make_tideplot("2026-11-23")
+```
+
+This week we will discuss how cities alter the rules of the game for ecological interactions. How are urban ecosystems in the ocean different than non-urban areas or different than terrestrial urban areas. This will involve thinking about the history of Boston, the unique environments of cities, and how eco-engineering is attempting to level the playing field in urban ecosystems.
+
+
+## 👨 🏫 Lecture Slides
+
+You can find the powerpoint file of the slides [here](http://files.celp-lab.org/biol311/lectures/urban_marine_ecology.pptx). 
+
+
+## ✍️ Coursework
+
+For all readings, username is biol311 and password is marinebio!!
+
+For lecture, please read [@toddUrbanMarineEcology2019](https://files.celp-lab.org/biol311/readings/urban_ecology/Todd_et_al_2019__Towards_an_urban_marine_ecology_characterizing_the_drivers__patterns_and_processes_of_marine_ecosys.pdf) and [@elizabethalterEvolutionaryResponsesMarine2021](https://files.celp-lab.org/biol311/readings/urban_ecology/Alter%20et%20al.%20-%202021%20-%20Evolutionary%20responses%20of%20marine%20organisms%20to%20urbanized%20seascapes.pdf)
+
+For paper discussion, read [@briskiUrbanEnvironmentsPromote2025](https://files.celp-lab.org/biol311/readings/urban_ecology/Briski%20et%20al.%20-%202025%20-%20Urban%20Environments%20Promote%20Adaptation%20to%20Multiple%20Stressors.pdf), and then fill out your weekly [reading Q&A](/assignments/reading_q_and_a.docx).
+
+
+## 🧠🐛❓ Would you like to know more?
+
+For Living Seawalls, definitely check out [@bishopComplexityBiodiversityRelationships2022](https://files.celp-lab.org/biol311/readings/urban_ecology/Bishop%20et%20al.%20-%202022%20-%20Complexity–biodiversity%20relationships%20on%20marine%20ur.pdf)
+
+## 📚  References
+
+::: {#refs}
+:::

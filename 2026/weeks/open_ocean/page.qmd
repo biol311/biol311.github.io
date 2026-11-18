@@ -13,7 +13,8 @@ source("../../../helpers/make_tideplot.R")
 make_tideplot("2026-11-16")
 ```
 
-In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course. 
+This week, we will look at the dynamics occuring offshore. How do so many species of plankton coexist in what appears to be a homogeneous environment? How does oceanography shape community structure on the surface? And ultimately, how does the ecology of the surface oceans influence community structure and ecosystem function in the deep sea via the carbon pump?
+
 
 ## 👨 🏫 Lecture Slides
 
